@@ -324,11 +324,12 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/608/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"9cIxIYX58MSJS3POF0GdjA", "kid":"hpwyN9L654MBqR27WpJNEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroAura" tvg-name="ASTRO AURA HD" group-title="Astroxx" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//INDO//INDO_AURA.png",113 ASTRO AURA
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/manifest.mpd 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/609/manifest.mpd
 
-#EXTINF:-1 tvg-id="Vellithirai" group-title="Indian" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Vellithirai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.ulivetv.net/v/live/d83aby7mo3r4.m3u8?stream_id=d83aby7mo3r4&timestamp=1706634794&rand=kYY4ua5cCn&uuid=vM4udTk6z29AGRUFpTTVBe&from=web&sign=b58e6ede0b779faef35c25e2fe0582a1&stream_id=d83aby7mo3r4|Referer=https://histar.tv 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+#EXTINF:-1 tvg-id="AstroVellithirai" tvg-name="Astro Vellithirai" group-title="Indian" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nq6lI.png",Astro Vellithirai 
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5073/default_primary.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5628,9 +5629,6 @@ http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558746
 #EXTINF:-1, group-title="🇵🇭 PHILIPINES🇵🇭" tvg-id="" tvg-logo="https://cms.cignal.tv/Upload/Images//TAP%20TV%20OFFICIAL%20LOGO.png",TAP TV
 http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558750
 
-#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/dt1PqqK3/download-2024-01-28-T202111-599.jpg" group-title="Asian World Cup Qatar 2023",Bein Sports Asian Cup 
-https://sportsleading.online/live/stream_5.m3u8
-
 #EXTINF:-1 tvg-id="MoviesNow" tvg-logo="https://i.postimg.cc/k5Hj8t59/download-9.jpg" group-title="Movies Campuran",Movies Now
 http://4ksuper.live:80/live/nilsson/nilsson/282651.ts
 
@@ -5965,9 +5963,6 @@ http://jp.vthanhnetwork.com/SBS/index.m3u8
 #EXTINF:-1 group-title="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PersianaSports.ir" tvg-name="PersianaSports.ir" tvg-logo="https://i.postimg.cc/nz79Mrpc/download-2024-01-13-T083639-037.png" group-title="Asia World Cup Qatar 2023",Persiana Sports (1080p)
-https://af.ayas.ir/hls2/persiana.m3u8
-
 #EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="VarzeshTV.ir" tvg-logo="https://i.postimg.cc/G3WKtnQ2/images-10.png" group-title="Iranian",IRIB Varzesh (1080p)
 https://live.aionet.ir/hls/varzesh/varzesh.m3u8
 
@@ -5976,12 +5971,6 @@ https://af.ayas.ir/hls2/tv3.m3u8
 
 #EXTINF:-1 tvg-id="PersianaSports.ir" tvg-name="PersianaSports.ir" tvg-logo="https://i.postimg.cc/nz79Mrpc/download-2024-01-13-T083639-037.png" group-title="Iranian",Persiana Sports (1080p)
 https://af.ayas.ir/hls2/persiana.m3u8
-
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="VarzeshTV.ir" tvg-logo="https://i.postimg.cc/G3WKtnQ2/images-10.png" group-title="Asia World Cup Qatar 2023",IRIB Varzesh (1080p)
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="IRIB3" tvg-logo="https://i.postimg.cc/MG6jHdNX/images-11.png" group-title="Asia World Cup Qatar 2023",IRIB 3 (1080p)
-https://af.ayas.ir/hls2/tv3.m3u8
 
 #EXTINF:-1 tvg-id="Sport+1" tvg-name="Sport+1" tvg-logo="https://i.imgur.com/EyZCn6S.png" group-title="Sports Campuran 2",Sport1+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
