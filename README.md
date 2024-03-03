@@ -5997,10 +5997,10 @@ https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-de
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
 
-#EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="🇹🇼Taiwan🇹🇼",FORMOSA TV
+#EXTINF:-1 tvg-id="CTI.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="🇹🇼Taiwan🇹🇼",FORMOSA TV
 http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
 
-#EXTINF:-1 tvg-id="6054" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png" group-title="🇹🇼Taiwan🇹🇼",PTS
+#EXTINF:-1 tvg-id="PTS.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png" group-title="🇹🇼Taiwan🇹🇼",PTS
 http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
 
 #EXTINF:-1 tvg-id="CTI.TW" tvg-logo="https://i.postimg.cc/tTZhMYwm/download-48.jpg" group-title="🇹🇼Taiwan🇹🇼",CTI ENTERTAINMENT HD
@@ -6009,5 +6009,5 @@ http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226
 #EXTINF:-1 tvg-id="CTS.TW" tvg-logo="https://i.postimg.cc/nrYbqcFC/logo-4gtv-4gtv-4gtv080-mobile.webp" group-title="🇹🇼Taiwan🇹🇼",CTS Drama & Entertainment HD
 http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
 
-#EXTINF:-1 tvg-id="6028" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼Taiwan🇹🇼",CTV
+#EXTINF:-1 tvg-id="CTV.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼Taiwan🇹🇼",CTV
 http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
