@@ -3259,16 +3259,6 @@ https://i.mjh.nz/PlutoTV/162444f34ea3ade0007ade6ac-alt.m3u8
 #EXTINF:-1 channel-id="pluto-6245cdb15d931000073ee4ff" tvg-id="6245cdb15d931000073ee4ff" tvg-logo="https://images.pluto.tv/channels/6245cdb15d931000073ee4ff/colorLogoPNG.png" tvg-chno="467" group-title="Music Campuran" , MTV RockZone
 https://i.mjh.nz/PlutoTV/1638f2baf818a0c00072aa079-alt.m3u8
 
-
-#EXTINF:-1 tvg-id="CTS.TW" tvg-logo="https://i.postimg.cc/9XYb9qPc/download-47.jpg" group-title="🇹🇼Taiwan🇹🇼",CTS HD
-http://198.16.100.90:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-
-#EXTINF:-1 tvg-id="CTI.TW" tvg-logo="https://i.postimg.cc/tTZhMYwm/download-48.jpg" group-title="🇹🇼Taiwan🇹🇼",CTI ENTERTAINMENT HD
-http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
-
-#EXTINF:-1 tvg-id="CTS.TW" tvg-logo="https://i.postimg.cc/nrYbqcFC/logo-4gtv-4gtv-4gtv080-mobile.webp" group-title="🇹🇼Taiwan🇹🇼",CTS Drama & Entertainment HD
-http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
-
 #EXTINF:-1 tvg-name="Kids.Co" tvg-logo=""  group-title="OSNGroup" tvg-logo="",OSN Kids.Co
 http://iptvmedia.live:8080/mitrovic/ff9bb47a59/281501
 
@@ -6006,3 +5996,18 @@ https://p7s1-live-009-prod.akamaized.net/c5c609cf/t_009/sport1plus-de-hd/cenc-de
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
+
+#EXTINF:-1 tvg-id="7135" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="🇹🇼Taiwan🇹🇼",FORMOSA TV
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MF8F2804739628047396&ct=19193&tsum=73a49379fed74f8fc39359fcf589a9d8
+
+#EXTINF:-1 tvg-id="6054" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c8/Public_Television_Service_%28logo%29.png" group-title="🇹🇼Taiwan🇹🇼",PTS
+http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
+
+#EXTINF:-1 tvg-id="CTI.TW" tvg-logo="https://i.postimg.cc/tTZhMYwm/download-48.jpg" group-title="🇹🇼Taiwan🇹🇼",CTI ENTERTAINMENT HD
+http://198.16.100.90:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+
+#EXTINF:-1 tvg-id="CTS.TW" tvg-logo="https://i.postimg.cc/nrYbqcFC/logo-4gtv-4gtv-4gtv080-mobile.webp" group-title="🇹🇼Taiwan🇹🇼",CTS Drama & Entertainment HD
+http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=de63d02f44741580b5070077d1949841
+
+#EXTINF:-1 tvg-id="6028" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼Taiwan🇹🇼",CTV
+http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
