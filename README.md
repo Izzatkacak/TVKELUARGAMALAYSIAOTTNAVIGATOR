@@ -5963,14 +5963,6 @@ http://jp.vthanhnetwork.com/SBS/index.m3u8
 #EXTINF:-1 group-title="Korean" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Munhwa_Broadcasting_Company.svg/1200px-Munhwa_Broadcasting_Company.svg.png", MBC
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="VarzeshTV.ir" tvg-name="VarzeshTV.ir" tvg-logo="https://i.postimg.cc/G3WKtnQ2/images-10.png" group-title="Iranian",IRIB Varzesh (1080p)
-https://live.aionet.ir/hls/varzesh/varzesh.m3u8
-
-#EXTINF:-1 tvg-id="IRIB3" tvg-name="IRIB3" tvg-logo="https://i.postimg.cc/MG6jHdNX/images-11.png" group-title="Iranian",IRIB 3 (1080p)
-https://af.ayas.ir/hls2/tv3.m3u8
-
-#EXTINF:-1 tvg-id="PersianaSports.ir" tvg-name="PersianaSports.ir" tvg-logo="https://i.postimg.cc/nz79Mrpc/download-2024-01-13-T083639-037.png" group-title="Iranian",Persiana Sports (1080p)
-https://af.ayas.ir/hls2/persiana.m3u8
 
 #EXTINF:-1 tvg-id="Sport+1" tvg-name="Sport+1" tvg-logo="https://i.imgur.com/EyZCn6S.png" group-title="Sports Campuran 2",Sport1+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
