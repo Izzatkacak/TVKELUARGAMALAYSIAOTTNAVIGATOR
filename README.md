@@ -5978,8 +5978,8 @@ http://198.16.100.90:8278/zhongshi_twn/playlist.m3u8?tid=14379667&ct=17988&tsum=
 #EXTINF:-1 tvg-id="CTV.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/22/CTV_text.png" group-title="🇹🇼Taiwan🇹🇼",CTV
 http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
 
-#EXTINF:-1 tvg-id="JayaTV" tvg-name="JayaTV" tvg-logo="https://i.postimg.cc/1XWD8hG0/Jaya-TV-logo.png" group-logo="https://i.postimg.cc/FH2FhWLY/muat-turun.png" group-title="South Indian",Jaya TV
+#EXTINF:-1 tvg-id="JayaTV" tvg-logo="https://i.postimg.cc/1XWD8hG0/Jaya-TV-logo.png" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",Jaya TV
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6696/index.m3u8
 
-#EXTINF:-1 tvg-id="RajDigitalPlus" tvg-name="RajDigitalPlus" tvg-logo="https://i.postimg.cc/Hxjfj57V/images-1.jpg" group-logo="https://i.postimg.cc/FH2FhWLY/muat-turun.png" group-title="South Indian",Raj Digital Plus
+#EXTINF:-1 tvg-id="RajDigitalPlus" tvg-logo="https://i.postimg.cc/Hxjfj57V/images-1.jpg" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",Raj Digital Plus
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
