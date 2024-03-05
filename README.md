@@ -37,7 +37,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
 
 
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
-http://4ksuper.live:80/live/nilsson/nilsson/1110636.ts
+http://89.254.128.5:22280/cartoon_network/index.m3u8
 
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/Kjz9MzYq/download-2024-01-28-T220803-711.png" group-title="Kids",Nick Plus HD
 http://4ksuper.live:80/live/nilsson/nilsson/282630.ts
