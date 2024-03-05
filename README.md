@@ -35,8 +35,7 @@ http://animezonetv.net/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
 
-
-#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/J0fhksqM/download-2024-01-28-T220736-947.png" group-title="Kids",Cartoon Network HD India
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network India
 http://89.254.128.5:22280/cartoon_network/index.m3u8
 
 #EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/Kjz9MzYq/download-2024-01-28-T220803-711.png" group-title="Kids",Nick Plus HD
