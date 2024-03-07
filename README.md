@@ -1374,10 +1374,10 @@ https://video.detik.com/trans7/smil:trans7.smil/chunklist_kamiselaluada_b744100_
 https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g0F6zwQ9/download-2024-02-07-T195427-627.jpg" group-title="🇮🇩Indonesia🇮🇩",SCTV
-https://gachor99.my.id/play.m3u8?id=sctv
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://cdnjkt2.transvision.co.id:1001/image/web/channel/4028c68574537fcd0174be4f342858e9/295eb53a7aa04fbca2eeb58a3fab1f2f.png" group-title="🇮🇩Indonesia🇮🇩",Indosiar
-https://gachor99.my.id/play.m3u8?id=indosiar
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-id="mentaritv.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Mentari_TV.png",Mentari TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
