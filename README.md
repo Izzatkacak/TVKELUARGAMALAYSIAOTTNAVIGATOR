@@ -5982,3 +5982,51 @@ http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6696/index.m3u8
 
 #EXTINF:-1 tvg-id="RajDigitalPlus" tvg-logo="https://i.postimg.cc/Hxjfj57V/images-1.jpg" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",Raj Digital Plus
 http://eypv0ag4.siauliairsavlt.pw/iptv/WTRMLWF6MHW5NG/6701/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZR5rPXHD/muat-turun-1.png" group-title="Australia/New Zealands Sports",SKYSPORTS_1_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636918&extension=ts&shareext@skysport_1_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/YCj03MBF/muat-turun-2.png" group-title="Australia/New Zealands Sports",SKYSPORTS_2_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636919&extension=ts&shareext@skysport_2_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/WpfQZv8C/muat-turun-3.png" group-title="Australia/New Zealands Sports",SKYSPORTS_3_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636920&extension=ts&shareext@skysport_3_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZxmSfy2/muat-turun-4.png" group-title="Australia/New Zealands Sports",SKYSPORTS_4_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636921&extension=ts&shareext@skysport_4_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d19Zf6HZ/muat-turun-5.png" group-title="Australia/New Zealands Sports",SKYSPORTS_5_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636922&extension=ts&shareext@skysport_5_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/T14184r1/muat-turun-6.png" group-title="Australia/New Zealands Sports",SKYSPORTS_6_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636923&extension=ts&shareext@skysport_6_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y6t7H9MD/muat-turun-7.png" group-title="Australia/New Zealands Sports",SKYSPORTS_7_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636924&extension=ts&shareext@skysport_7_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9fDjKQLd/muat-turun-8.png" group-title="Australia/New Zealands Sports",SKYSPORTS_8_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636925&extension=ts&shareext@skysport_8_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/LstVHzQ2/muat-turun-9.png" group-title="Australia/New Zealands Sports",SKYSPORTS_9_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636926&extension=ts&shareext@skysport_9_NZ
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9QnMNMd2/muat-turun-10.png" group-title="Australia/New Zealands Sports",SKYSPORTS_SELECT_NZ
+http://shareext@mag.trexlive.me/play/live.php?mac=00:1A:79:70:4A:22&stream=636927&extension=ts&shareext@skysport_Select_NZ
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/B6d7hx6F/muat-turun-11.png" group-title="Australia/New Zealands Sports",Fox Sports 501
+http://iptvtree.net:8080/F14995/a84c0963/279034
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/rF9gW6Sx/muat-turun-2.jpg" group-title="Australia/New Zealands Sports",Fox Sports 502
+http://iptvtree.net:8080/F14995/a84c0963/81784
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/yd92Cf2j/muat-turun-12.png" group-title="Australia/New Zealands Sports",Fox Sports 503
+http://iptvtree.net:8080/F14995/a84c0963/280192
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/MKR00CVd/muat-turun-13.png" group-title="Australia/New Zealands Sports,Fox Sports 504
+http://iptvtree.net:8080/F14995/a84c0963/280193
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/Vk8hXBr0/muat-turun-14.png" group-title="Australia/New Zealands Sports",Fox Sports 505
+http://iptvtree.net:8080/F14995/a84c0963/144772
+
+#EXTINF:-1  tvg-logo="https://i.postimg.cc/PqN0qfvS/muat-turun-15.png" group-title="Australia/New Zealands Sports",Fox Sports 506
+http://iptvtree.net:8080/F14995/a84c0963/279033
