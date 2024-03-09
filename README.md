@@ -408,11 +408,10 @@ http://starshare.live:8080/live/123456/654321/1614.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/1006/default.mpd
 
 #EXTINF:-1 tvg-id="308.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroQJ_2023.png" group-title="Chinese",Astro QJ
-http://mohdtv.com:8880/live/ALLChannels580cde0012c3/49768421/1728.m3u8
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1728
 
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AEC HD" group-title="Chinese" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",DIGITAL AEC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://hls.ulivetv.net/v/live/d83ahnn8jj0g.m3u8?stream_id=d83ahnn8jj0g&timestamp=1705303336&rand=Pr6mhy32fL&uuid=dPX9QJhKxThc2tuA1UBTEa&from=web&sign=bcbf41e8249d6a3c9819433033b6a258&stream_id=d83ahnn8jj0g|Referer=https://histar.tv 
+http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1723
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
