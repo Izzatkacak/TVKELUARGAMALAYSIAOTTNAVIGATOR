@@ -172,9 +172,7 @@ https://stream.smg.my/live/tvs.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/211/default.mpd
 
 #EXTINF:-1 tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png", group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png"  group-title="🇲🇾Myfreeview🇲🇾",Selangor TV
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-referrer=https://skyios.sky4k.top
-https://live.mana2.my/SelangorTv/tracks-v3a1/mono.m3u8?token=1704226535-e73ef3be00ac42c794d84f415d2201c6-0-0f50ce21926c0af7a0b51032c4c67edf&auth_key=1704226535-e73ef3be00ac42c794d84f415d2201c6-0-8a956fabf0474f8c2361be1c22961fe5|Referer:https://www.mana2.my/
+https://ythls.armelin.one/channel/UCldPEJgJgq_Mb6Ndek5RxQg.m3u8
 
 #EXTINF:-1 tvg-name="SUKE TV" tvg-logo="https://i.ibb.co/qyJgMDH/1689595250420.png" group-title="🇲🇾Myfreeview🇲🇾",SUKE TV
 https://link.zozotv.xyz:443/rozila969/abc12345/924
