@@ -1082,9 +1082,8 @@ http://clientsportals.info:2095/play/live.php?mac=00:1A:79:B4:3C:2A&stream=33668
 #EXTINF:-1 tvg-id="9GO" tvg-logo="https://i.postimg.cc/LXRnLtbh/images-7.jpg" group-title="Kids",9Go
 http://fuckyouall111av.funtogether.xyz:8080/m6MBRJcUDu/mkgB3PJCYb/30014?play_token=lvcJnZnkTD
 
-#EXTINF:-1 tvg-id="Crunchyroll" group-title="Kids" tvg-logo="", Crunchyroll TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://d2spdq8rliqjem.cloudfront.net/v1/master/43fcaa28f618f06de1eb896cc4c2469172c85466/40bc2463-2eb8-44e6-ad01-c84d2375ca99/live.m3u8|referer=user-agent=okhttp/4.10.0
+#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="Kids" , Crunchyroll
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network (Russian+English)
 http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/9261/index.m3u8
