@@ -5574,7 +5574,7 @@ https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8|Refere
 https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-id="KTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/800px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Testing Channel", KTV 2
-http://www.elahmad.com/tv/m3u8/kuwait_tv_8.m3u8?id=kwtv2&t=44f1198d11131a6b221623bd4ca936a9|Referer=https://www.elahmad.com
+https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="MBC2" tvg-logo="https://i.postimg.cc/63WyxHDV/download-2024-01-27-T160849-151.jpg" group-title="Testing Channel", MBC 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.230 Mobile Safari/537.36
