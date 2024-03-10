@@ -162,7 +162,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="TVS" ch-number="122" group-title="🇲🇾Myfreeview🇲🇾" group-logo="https://aqfadtv.xyz/images/myfreeview_v3.png" tvg-logo="https://i.postimg.cc/RFQPGbgM/IMG-20240225-224221-479-picsay-10.jpg",122 TVS 
-https://stream.smg.my/live/tvs.m3u8
+https://stream2.smg.my/live/tvs.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
