@@ -289,15 +289,10 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-http://mohdtv.com:8880/live/ALLChannels580cde0012c3/49768421/1706.m3u8
+http://50.7.234.10:8278/Warna-O/playlist.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"84bf9ad6848be7db20f9d16823deef10": "654f2d25a5bfb27c9e5ae0852584a166"}
-#EXTVLCOPT:http-referrer=https://astrogo.astro.com.my
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
-https://linears-playback.astro.com.my/vsg/415H4TzJbpXubQKgf4bWNmDJVw4DQhOtkYK769UviLjWM=1h19/dash-wv/jitp-dashisowm/2700/default_primary.mpd
+http://50.7.234.10:8278/Citra_xue/playlist.m3u8
   
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
