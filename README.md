@@ -5622,13 +5622,16 @@ http://4ksuper.live:80/live/nilsson/nilsson/156025.ts
 http://4ksuper.live:80/live/nilsson/nilsson/156021.ts
 
 #EXTINF:0 tvg-id="Star Movies" tvg-name="" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies (A)
-http://4ksuper.live:80/live/nilsson/nilsson/1116488.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 
 #EXTINF:-1 tvg-id="StarMovies" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies HD (B)
 https://edge1.laotv.la/live/StarMovie/index.m3u8
 
 #EXTINF:-1 tvg-id="StarMoviesSelects" tvg-logo="https://i.postimg.cc/kDrZ3RSq/download-6.png" group-title="Movies Campuran",Star Movies Selects 
-http://4ksuper.live:80/live/nilsson/nilsson/155729.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Gri14OLloKQOHOjc3o1eTw","kid":"8JCZbiASNleCCBsEK9X64g"}],"type":"temporary"}
+https://livea.streamready.in/starmoviesselecthd/smil:common.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="FoxMovies.Pt" tvg-chno="1027" tvg-logo="https://i.postimg.cc/PfDCXTcS/download-24.png" group-title="Movies Campuran",Fox Movies PT 
 http://vo01.mohdtv.com:8880/live/ALLChannelsD8BE651451BB/96842653/60958.m3u8 
