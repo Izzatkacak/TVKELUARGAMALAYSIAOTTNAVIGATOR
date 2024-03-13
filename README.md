@@ -892,7 +892,7 @@ https://webudit.webhd.ru/lb/premium339/index.m3u8
 http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/26531.m3u8
 
 #EXTINF:-1 tvg-id="TringKids"  tvg-name="TringKids" tvg-logo="https://i.postimg.cc/bNMVWyJF/download-2024-01-22-T003142-850.jpg" tvg-name="TringKids" group-title="Kids",Tring Kids
-http://801503790624332690.nicsd0227a.xyz:80/live/fe1012886/N5pf%40fN3gNE/770161.ts
+http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/30467.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
