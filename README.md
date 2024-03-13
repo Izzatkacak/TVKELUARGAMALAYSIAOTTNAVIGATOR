@@ -3920,9 +3920,6 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975475&exten
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975474&extension=ts
 
-#EXTINF:-1, tvg-id="Ride On" tvg-name="Ride On" tvg-logo="https://i.postimg.cc/jSCkvV67/film-ride-on-2023-lk21-d21-jpg.jpg" group-title="Chinese Movies",Ride On 2023
-https://stream.hownetwork.xyz/xxx/ride-on-2023-webdl/9/480.m3u8|referer=https:stream.hownetwork.xyz 
-
 #EXTINF:-1 tvg-id="ABCNetwork.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc@3x.png" group-title="🇺🇸USA LOCAL🇺🇸",ABC Network 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
