@@ -1247,18 +1247,10 @@ http://iptvtree.net:8080/F26646/f950f250/146068
 
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="810" tvg-name="Astro SuperSport 2 HD" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="⚽️SPORTS⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png?20200922155455", 810 Astro SuperSport 2 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/121.0.6167.164 Mobile Safari/537.36
-https://webhdrus.webhd.ru/lb/premium124/index.m3u8|Referer=https://weblivehdplay.ru/
+http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/1721.m3u8
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ill6WmxaV00yTmpJdE1EbGtNaTAwWXpBM0xXRXdPV0l0TkRsaFlUVTRObU5pTjJaaSIsIndtb3BpZCI6MzIsImV4cCI6MTcwMTE0NTk2OCwiaWF0IjoxNzAwNTQxOTY4fQ.z9cj6fHZED990ziN1O7BZAiye2ZWmDx-N8lZRbRwGpk"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSupersport3" ch-number="811" tvg-name="Astro SuperSport 3 HD" group-title="⚽️SPORTS⚽️" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png?20200922155527",811 Astro SuperSport 3 
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
+http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/1720.m3u8
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1294,10 +1286,8 @@ https://dcqkiaqc3sngm.cloudfront.net/CH3/masterCH3.mpd
 #EXTINF: -1 tvg-name="beIN Sports 2" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="⚽️Sports⚽️", beIN Sports 2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5066/default_primary.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PEUIrzSIRBB/XgJqT9axbg","kid":"GmVRiatcSesjUwjCsannEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="beINSport" ch-number="817" tvg-name="beIN ALL SPORTS HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="⚽️Sports⚽️", 817 beIN SPORTS
-http://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_primary.mpd
+http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/71104.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"BCohvyNspymx40PtbgpjNw","kid":"IMiE747Saydi+LGnjy0ZEA"}],"type":"temporary"}
