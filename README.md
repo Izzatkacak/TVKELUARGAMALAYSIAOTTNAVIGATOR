@@ -4251,11 +4251,6 @@ https://mangga-live-cdn.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_shenzen_small.png" group-title="🇨🇳China Province🇨🇳", Shenzen TV 
 https://cdn08jtedge.indihometv.com/dassdvr/130/shenzen/manifest.mpd
 
-
-#EXTINF:-1, tvg-id="THE ROUNDUP: NO WAY OUT (2023)" tvg-name="THE ROUNDUP: NO WAY OUT (2023)" tvg-logo="https://i.postimg.cc/4NDbjJ3D/film-the-roundup-no-way-out-2023-lk21-d21-jpg.jpg" group-title="Korean Movies",THE ROUNDUP: NO WAY OUT (2023)
-https://stream.hownetwork.xyz/xxx/the-roundup-no-way-out-2023-bluray_X_fe76a6e0/19/480.m3u8|Referer=https=stream.hownetwork.xyz 
-
-
 #EXTINF:-1 group-title="Sports Campuran" tvg-id="PLAY SPORTS 1" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
@@ -5358,12 +5353,6 @@ https://webudit.webhd.ru/lb/premium289/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium290/index.m3u8 
-
-#EXTINF:-1 tvg-id="The Witch Part 1" tvg-logo="https://i.postimg.cc/Bv1X548f/download-2024-01-25-T221705-228.jpg" group-title="Korean Movies", The Witch Part 1 - The Subversion (2018)
-https://stream.hownetwork.xyz/xxx/the-witch-part-1-the-subversion-manyeo-2018-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="The Witch Part 2" tvg-logo="https://s1.lk21static.xyz/wp-content/uploads/2022/07/film-the-witch-part-2-the-other-one-the-witch-part-2-2022-lk21-d21.jpg" group-title="Korean Movies", The Witch Part 2 - The Other One (2023)
-https://stream.hownetwork.xyz/xxx/the-witch-part-2-the-other-one-the-witch-part-2-2022-bluray/3/480.m3u8|Referer=https://stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-id="Sky Cinema Selects" tvg-logo="https://i.postimg.cc/gkQJc0xQ/download-2024-01-26-T124249-690.jpg" group-title="SkyGroup", Sky Cinema Selects 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
