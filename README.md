@@ -889,7 +889,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
 https://webudit.webhd.ru/lb/premium339/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network DSTV 
-http://801503790624332690.nicsd0227a.xyz:80/live/fe1012886/N5pf%40fN3gNE/783898.ts
+http://vo01.mohdtv.com:8880/live/ALLChannels00075273/86977784/26531.m3u8
 
 #EXTINF:-1 tvg-id="TringKids"  tvg-name="TringKids" tvg-logo="https://i.postimg.cc/bNMVWyJF/download-2024-01-22-T003142-850.jpg" tvg-name="TringKids" group-title="Kids",Tring Kids
 http://801503790624332690.nicsd0227a.xyz:80/live/fe1012886/N5pf%40fN3gNE/770161.ts
