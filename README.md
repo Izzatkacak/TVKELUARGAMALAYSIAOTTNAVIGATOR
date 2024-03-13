@@ -3063,52 +3063,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Movies Campuran",ALPO (720p) [Not 24/7]
 https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
 
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/kG23FYd3/download-33.jpg" group-title="Singapore@Sports",HUB°PREMIER°1°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032529&extension=ts&play_hubpremier1
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/WzBKm2ng/download-34.jpg" group-title="Singapore@Sports",HUB°PREMIER°2°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032528&extension=ts&play_hubpremier2
-  
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/2ySvHvHf/download-35.jpg" group-title="Singapore@Sports",HUB°PREMIER°3°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032527&extension=ts&play_hubpremier3
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/vHDffrgr/download-36.jpg" group-title="Singapore@Sports",HUB°PREMIER°4°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032526&extension=ts&play_hubpremier4
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/fT0kMBSr/download-37.jpg" group-title="Singapore@Sports",HUB°PREMIER°5°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032525&extension=ts&play_hubpremier5
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/YSJMDwb2/download-38.jpg" group-title="Singapore@Sports",HUB°PREMIER°6°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032524&extension=ts&play_hubpremier6
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/fyvsbSZk/download-39.jpg" group-title="Singapore@Sports",HUB°PREMIER°7°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032523&extension=ts&play_hubpremier7
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/wj5wGKH5/Screenshot-2023-09-24-013830.jpg" group-title="Singapore@Sports",HUB°PREMIER°8°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032522&extension=ts&play_hubpremier8
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/B6jyyhmq/Screenshot-2023-09-24-013924.jpg" group-title="Singapore@Sports",HUB°PREMIER°9°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032521&extension=ts&play_hubpremier9
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/FH1KPv08/Screenshot-2023-09-24-013721.jpg" group-title="Singapore@Sports",HUB°PREMIER°10°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032520&extension=ts&play_hubpremier10
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/zBHtpyfv/Screenshot-2023-09-24-014020.jpg" group-title="Singapore@Sports",HUB°PREMIER°11°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032519&extension=ts&play_hubpremier11
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/N02HSB75/sdvs4u1659622094.png" group-title="Singapore@Sports",HUB°PREMIER°2°UHD°
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=1032518&extension=ts&play_hubpremier2UHD
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Z5n2Q2Gg/download-32.jpg" group-title="Singapore@Sports",HUB*SPORTS_1°🇸🇬
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941573&extension=ts&play_hubsports1SG
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/Lswpv2hN/m85hz61655810471.png" group-title="Singapore@Sports",HUB*SPORTS_2°🇸🇬
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941572&extension=ts&play_hubsports2SG
-
-#EXTINF:-1  tvg-logo="https://i.postimg.cc/brjWZvFS/tmpwbb1655810489.png" group-title="Singapore@Sports",HUB*SPORTS_3°🇸🇬
-http://connect-uk.proxytx.cloud/play/live.php?mac=00:1A:79:6F:5A:5D&stream=941571&extension=ts&play_hubsports3SG
-
 #EXTINF:-1 tvg-id="hbohdsignature.MACAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="Movies",HBO SIGNATURE ID HD
 http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
 
@@ -3612,6 +3566,7 @@ http://free.cvmtv.site/9G?token=live
 
 #EXTINF:-1 group-title="🇦🇺Australia🇦🇺" tvg-id="sbsone" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/SBS_Australia_Logo_%282019%29.svg/1200px-SBS_Australia_Logo_%282019%29.svg.png",SBS One
 http://free.cvmtv.site/SBSA?token=live
+
 #EXTINF:-1 group-title="🇳🇿NewZealand🇳🇿" tvg-id="TVNZ1" tvg-logo="https://i.postimg.cc/VNDFWydX/download-92.jpg",TVNZ 1 (VPN)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://i.mjh.nz/tvnz-1.m3u8
@@ -3647,9 +3602,6 @@ https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sharjah2.ae" tvg-logo="https://i.postimg.cc/pLCsfcqy/download-93.jpg" group-title="Arabic Local",Sharjah 2 (1080p)
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-
-#EXTINF:-1 group-title="English Movies" tvg-id="blue-beetle-2023" tvg-logo="https://i.postimg.cc/G25dvJMZ/MV5-BODky-Zjcy-OGMt-ZWVh-Yy00-ZWEy-LWJl-ZDIt-ZDA2-OTBh-NGZm-Mj-Bi-Xk-Ey-Xk-Fqc-Gde-QXVy-MTUz-MTg2-ODkz-V1-1.jpg",blue-beetle-2023
-https://stream.hownetwork.xyz/xxx/blue-beetle-2023-bluray_X_044c4b0a/18/480.m3u8|referer=https:stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/ipcloud-app-ee03e.appspot.com/o/logo%2Fleo-tv.png?alt=media&token=bbec0922-0a8c-4680-a764-bbd6115cd4cc" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",LEO TV
 http://ipcloud.live:8080/leotv/leotvhd.m3u8
@@ -4031,12 +3983,6 @@ https://01.webhd.ru/ddy5/premium341/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium343/index.m3u8
-
-#EXTINF:-1 tvg-id="ImpakMaksimaUnderground2023" tvg-name="ImpakMaksimaUnderGround2023" group-title="Malaysian Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitrc_Y63wVg94hED5HoSqQtSbmRRFpc21lta7e3YOidjwprE1N1jA0figo-VaQm4vPG8qNeAmBFQX_CV1m4v3RzUQSFHcoiy2HjKygeelsqHhl5CQGiQ7jbs-vxF3ol3iGQ73dAG533cTPaBg6ytTFbx_vBScpFkwbHE4uvLXvFaZObCP75UwT668L04VL/w0/Impak%20Maksima%20Underground.jpg",Impak Maksima UnderGround 2023
-https://stream.hownetwork.xyz/xxx/impak-maksima-underground-2023-webdl_X_c47cbbb6/19/480.m3u8|Referer=https:stream.hownetwork.xyz
-
-#EXTINF:-1 tvg-id="MarsAttack1998" tvg-name="MarsAttack1998" group-title="English Movies" tvg-logo="https://i.postimg.cc/kMbTLr1P/wakwak-jpg.jpg",Mars Attacks! 1998
-https://stream.hownetwork.xyz/yyy/mars-attacks-1996-bluray/7/480.m3u8|Referer=https:stream.hownetwork.xyz
 
 #EXTINF:-1 tvg-id="NickMusic.us" tvg-name="Nick Music HD" tvg-logo="https://i.postimg.cc/3wpSX4WN/download-2024-01-01-T213746-976.png" group-title="Music Campuran", Nick Music East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -4514,8 +4460,6 @@ https://webhdrus.onlinehdhls.ru/lb/premium35/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=000396e3d0757680d7971de0d0742ce6:c73130782f138fa46098b3a522ab0e41
 http://linear030-gb-dash1-prd-ll.cdn.skycdp.com/Content/DASH_003_hd/Live/channel(sportsaction50)/manifest_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FzxCs4YD/film-hidden-strike-2023-lk21-d21-jpg.jpg", tvg-id="HiddenStrike2023" group-title="English Movies", Hidden Strike 2023
-https://stream.hownetwork.xyz/xxx/hidden-strike-2023-webdl/2/480.m3u8|Referer=https:stream.hownetwork.xyz 
 
 #EXTINF:-1 group-title="SSCGROUP" tvg-id="SSC 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Saudi_Sports_Company_logo_20210721.png",SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -5440,12 +5384,6 @@ http://linear015-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sd/Live/ch
 
 #EXTINF:-1 tvg-id="Sky Sports News" tvg-logo="https://i.postimg.cc/rmv5Zr4C/images-13.jpg" group-title="Sports Campuran 2", Sky Sports News
 http://andhablfus.online:2082/P23005715/Txp52LyZwvPw/415106
-
-#EXTINF:-1 tvg-id="Wonka" tvg-logo="https://s0.lk21static.xyz/wp-content/uploads/2024/01/film-wonka-2023-lk21-d21.jpg" group-title="English Movies", Wonka (2023)
-https://stream.hownetwork.xyz/xxx/wonka-2023-webdl_X_828b33e5/19/480.m3u8|Referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Sakra" tvg-logo="https://s2.lk21static.xyz/wp-content/uploads/2023/02/film-sakra-2023-lk21-d21.jpg" group-title="Chinese Movies", Sakra (2023)
-https://stream.hownetwork.xyz/xxx/sakra-2023-bluray/11/480.m3u8|Referer=https://stream.hownetwork.xyz 
 
 #EXTINF:-1 tvg-id="KTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg/800px-%D8%AA%D9%84%D9%81%D8%B2%D9%8A%D9%88%D9%86_%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA_%D8%A7%D9%84%D9%82%D9%86%D8%A7%D8%A9_%D8%A7%D9%84%D8%AB%D8%A7%D9%86%D9%8A%D8%A9_KTV2.jpg" group-title="Testing Channel", KTV 2
 https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8
