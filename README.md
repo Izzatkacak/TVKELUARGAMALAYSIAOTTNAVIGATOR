@@ -3591,83 +3591,9 @@ http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40255
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ZJgmZD/download-85.jpg" group-title="BeIN Group", Bein Sports 7 AR
 http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40261
 
-#EXTINF:-1 tvg-id="TheHungerGames2023" tvg-name="TheHungerGames2023" tvg-logo="https://i.postimg.cc/g2f9LvVL/film-the-hunger-games-the-ballad-of-songbirds-snakes-2023-lk21-d21-jpg.jpg" group-title="English Movies",The Hunger Games:The Ballads Of Songbirds & Snakes (2023)
-https://stream.hownetwork.xyz/xxx/the-hunger-games-the-ballad-of-songbirds-snakes-2023-webdl_X_42b04af2/19/480.m3u8|referer=https://stream.hownetwork.xyz
-
-#EXTINF:-1 tvg-id="WALID (2023)" tvg-name="WALID (2023)" tvg-logo="https://i.postimg.cc/pL7991cQ/film-walid-2023-lk21-d21-jpg.jpg" group-title="Malaysian Movies",WALID (2023)
-https://stream.hownetwork.xyz/xxx/walid-2023-webdl_X_5e3d1f3a/19/480.m3u8|referer=https://stream.hownetwork.xyz
-
-#EXTINF:-1 tvg-id="Meter (2023)" tvg-name="Meter (2023)" tvg-logo="https://i.postimg.cc/zfW8pJ8B/download-88.jpg" group-title="Telugu Movies",Meter (2023)
-https://stream.hownetwork.xyz/yyy/meter-2023-webdl_X_5846b1be/18/480.m3u8|referer=https://stream.hownetwork.xyz
-
-#EXTINF:-1 tvg-id="Leo (2023)" tvg-name="Leo (2023)" tvg-logo="https://i.postimg.cc/N0ffGhcf/film-leo-2023-2-lk21-d21-jpg-1.jpg" group-title="Tamil Movies",Leo (2023)
-https://stream.hownetwork.xyz/xxx/leo-2023-2-webdl_X_db7835b4/18/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="GuardianofthegalaxyVol3(2023)" tvg-name="GuardianofthegalaxyVol3(2023)" tvg-logo="https://i.postimg.cc/g2XHnZz5/film-guardians-of-the-galaxy-vol-3-2023-lk21-d21-jpg-1.jpg" group-title="English Movies",Guardian of the galaxy Volume 3 (2023)
-https://stream.hownetwork.xyz/xxx/guardians-of-the-galaxy-vol-3-2023-bluray/2/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="CHICKEN RUN: DAWN OF THE NUGGET(2023)" tvg-name="CHICKEN RUN: DAWN OF THE NUGGET(2023)" tvg-logo="https://i.postimg.cc/1RVxq6DQ/film-chicken-run-dawn-of-the-nugget-2023-lk21-d21-jpg.jpg" group-title="English Animation Movies",CHICKEN RUN: DAWN OF THE NUGGET (2023)
-https://stream.hownetwork.xyz/xxx/chicken-run-dawn-of-the-nugget-2023-webdl_X_034fce82/18/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="THE EQUALIZER 3 (2023)" tvg-name="THE EQUALIZER 3 (2023)" tvg-logo="https://i.postimg.cc/25TqhgRV/film-the-equalizer-3-2023-lk21-d21-jpg.jpg" group-title="English Movies",THE EQUALIZER 3 (2023)
-https://stream.hownetwork.xyz/xxx/the-equalizer-3-2023-bluray_X_b5f0eaa5/5/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 1 (2023)
-https://rr5---sn-5goeenez.googlevideo.com/videoplayback?expire=1704294395&ei=myOVZfQpt9GL2g_Ti4OQCQ&ip=196.196.53.134&id=o-AJzHuRB9jgQNZJtKC2hFyYirZziJae69UtD6xjjxaUgg&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Jf&mm=31%2C26&mn=sn-5goeenez%2Csn-4g5ednd7&ms=au%2Conr&mv=m&mvi=5&pl=24&initcwndbps=3686250&spc=UWF9f9xdqg8mkhGlOSAws6-acODnECU&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1368.653&lmt=1701696181495625&mt=1704272471&fvip=4&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAKhhP2cUFx5CW5eg_VAZCmtql44ClkOjkKkVuA3snsFmAiBTCR0v7JNVfaatei_SXkqtqEpCsulO2CtNeOJCMNFK7Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRgIhAOWywI8NLZTvV4Qv5uXumuuCbCby0Un8HIqDaKH6OGtWAiEAtHLpit1jzK3EpO8YiXwAXAtoUogZVSRKreZ50oTl9YA%3D&title=EPISOD%2001%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20%20Kembali%20Beraksi!|Referer=https:youtube.com
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 2 (2023)
-https://rr4---sn-25ge7nsd.googlevideo.com/videoplayback?expire=1704304189&ei=3UmVZZn7IuSFp-oP1-a10A0&ip=156.255.26.86&id=o-AOLFnu4KsZbkKXQ5ohM10lKoHFg0BJDsoBj8mDJeHy86&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=X7&mm=31%2C26&mn=sn-25ge7nsd%2Csn-5hne6nzd&ms=au%2Conr&mv=m&mvi=4&pl=22&initcwndbps=7793750&spc=UWF9f0QWQdw6Bm7Zkn242sUyMNZLMYk&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1396.866&lmt=1702429291675542&mt=1704282087&fvip=3&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAIanSQtjQmNhB4dTZH7WW_Qh390TaHnjGF_k2RC4JJhXAiBCjVNZcfvu4au7Aak-0PuFN929KY-tHIEBLrk3yFdDrA%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIgQQB1drsbsarBALXUZjHxTNZgQDiRFMMA_TxQps4RctsCIQDclxCptqVTDlG0C6ASkdoj8dXdtUSMFAuHQxla3LDlXg%3D%3D&title=EPISOD%2002%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20Rahsia%20King%20Balakung|Referer=https:youtube.com
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 3 (2023)
-https://rr3---sn-gxuo03g-qo3e.googlevideo.com/videoplayback?expire=1704308248&ei=uFmVZcHlMcGxi9oP_aW3sAo&ip=37.46.115.21&id=o-ADpv9d3XLCyHOSUuXGqsZiJwKUKEafFNsAyMPdFI7AwI&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=dT&mm=31%2C29&mn=sn-gxuo03g-qo3e%2Csn-n8v7kne7&ms=au%2Crdu&mv=m&mvi=3&pl=24&pcm2=yes&initcwndbps=143750&spc=UWF9fyE_cNl5Zj5FeMoF5UiQDyHfeEM&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1701.256&lmt=1702812894412594&mt=1704286147&fvip=8&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cpcm2%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIgPR40ecf2e09YT6eeriBgodEI_8pJjqFU2aUjqZK55u0CIQDweJgfTyrTkNkxZlcarrrYk0YMfBxu9cJD4ydB3UUw1g%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIgFR41V2A-IW43HWkv4enB5iy-vSmpxc4hKvPGBGGrJJ4CIQCMt6_V_h6cpc0Hhs52D8crSYp0F3P98GAJwRXpsOQD7g%3D%3D&title=EPISOD%2003%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20Resipi%20Warisan%20Terulung!|Referer=https://youtube.com 
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 4 (2023)
-https://rr5---sn-ab5l6nr6.googlevideo.com/videoplayback?expire=1704306621&ei=XVOVZeibJ4C__9EPjtan6AU&ip=170.246.53.165&id=o-ALvQm0mgh4MYtFQx2tsfBnkmM06wg4tpbu-Kw-NOfgGF&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=H2&mm=31%2C29&mn=sn-ab5l6nr6%2Csn-ab5sznld&ms=au%2Crdu&mv=m&mvi=5&pl=22&initcwndbps=40000&spc=UWF9f223tsvbH88SsdBbHVdv7RsXTkM&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1591.983&lmt=1703351605474243&mt=1704284734&fvip=5&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgcKPpa1PjogOpGoJSGC9UYp0DAvhcqrvjH-edj1CapkMCIGm5KsqrkLaO3pJehFY94vCfZIq4U_GQbuO46iSUCEjv&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRAIgIh9jGyRvkD40bwLmmSkLu7K4HC9cF_rh756Y_IRoV1wCIB2p4atXVYyU-eMpv2X4quBWiDEvou-qQiXfC_jIRpwh&title=EPISOD%2004%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20Belantara%20Penuh%20Bahaya!|Referer=https://youtube.com
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 5 (2023)
-https://rr2---sn-aigl6ned.googlevideo.com/videoplayback?expire=1704311279&ei=j2WVZaL5I_y2mLAP-d-m2Ac&ip=138.199.29.12&id=o-AKOPudyP0BEat1Gnk7kiPbWCa6OEZlFpQSjPDdOnUHKC&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=O8&mm=31%2C26&mn=sn-aigl6ned%2Csn-5hneknee&ms=au%2Conr&mv=m&mvi=2&pl=24&initcwndbps=2590000&spc=UWF9f7J6ieDLBEzEPmjy53KzOUnkGGc&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1562.586&lmt=1703427309987280&mt=1704289270&fvip=1&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAJYqO5MGp_vim7IHTQmCiKqjc1NnrVj7A7iSd_za9qvIAiBlUEiiT568IeCPho9aVD6ewTIq4uAxRksMVQ5RU5eIOg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRgIhALaiduUI2RTgqv0Yjs_Fl5YCAsXQvR3AsbnnPGrA-yQBAiEAkvhiUBXY3AlsW78tqXIOsnpFrZCsWibVT3Ht1xpg6oQ%3D&title=EPISOD%2005%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20Puak%20Purba%20Kadruax!|Referer=https://youtube.com
-
-#EXTINF:-1 tvg-id="BoboiBoy Galaxy 2023" tvg-name="BoboiBoy Galaxy 2023" tvg-logo="https://i.postimg.cc/Y0xYs72Q/images-11.jpg" group-title="Boboiboy Galaxy 2023",BoboiBoy Galaxy Sori:Episode 6 (Akhir) (2023)
-https://rr1---sn-5cjvh-up5z.googlevideo.com/videoplayback?expire=1704309190&ei=Zl2VZeGtK52ni9oP6dKukAY&ip=31.171.154.134&id=o-ABJsKNfDjYjFZ6tmSDZ6QW01qrJCJBSH-IgwaYW_osxg&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=y3&mm=31%2C29&mn=sn-5cjvh-up5z%2Csn-4g5ednd7&ms=au%2Crdu&mv=m&mvi=1&pl=23&initcwndbps=1191250&spc=UWF9fzazK_VH-Ch66bSXL2Gp0yE0W00&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=1695.149&lmt=1703794001643020&mt=1704287109&fvip=5&fexp=24007246&c=ANDROID&txp=5532434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRAIgEkJn3ud5Segbut0ab4WxwZPtEez_zuwkL6b9AV2msvECICFgCdsrDbB99rIgqwjxRP94DWSOLtlkJRrDQNcSNaRS&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRAIgHsjUaQ_vxh_zzBVK7jxgWL2RXlaq8ObC2AzMRVBwdvgCIB4-vW3_tchw-ADbb8N2rhdHvnIVGEo8W9-7yVvpgWTc&title=EPISOD%2006%20-%20BoBoiBoy%20Galaxy%20SORI%20%7C%20Paduan%20Dua%20Kuasa%20(FINALE)|Referer=https://youtube.com
-
-#EXTINF:-1 tvg-id="Jawan (2023)" tvg-name="Jawan (2023)" tvg-logo="https://i.postimg.cc/Bnxp62qg/download-89.jpg" group-title="India Movies",Jawan (2023)
-https://stream.hownetwork.xyz/xxx/jawan-2023-webdl_X_4306cc83/5/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="The Marvels (2023)" tvg-name="The Marvels (2023)" tvg-logo="https://i.postimg.cc/85v5HGwm/film-the-marvels-2023-lk21-d21-jpg.jpg" group-title="English Movies",The Marvels (2023)
-https://stream.hownetwork.xyz/xxx/the-marvels-2023-ts_X_c6d9174d/18/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Indiana Jones  and The Dial Of Destiny (2023)" tvg-name="Indiana Jones and The Dial Of Destiny (2023)" tvg-logo="https://i.postimg.cc/MHwXsGsm/film-indiana-jones-and-the-dial-of-destiny-2023-lk21-d21-jpg-1.jpg" group-title="English Movies",Indiana Jones and The Dial Of  Destiny 2023
-https://stream.hownetwork.xyz/xxx/indiana-jones-and-the-dial-of-destiny-2023-bluray_X_a38998df/18/480.m3u8|Referer=https://stream.hownetwork.xyz 
-
 #EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4UMovies" tvg-logo="https://i.postimg.cc/ZRDSSL3w/download-95.png" group-logo="https://i.postimg.cc/dDP8B1zZ/images-8.jpg" group-title="Hindi Movies",B4U Movies (TataPlay)
 http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/96189
-
-#EXTINF:-1 tvg-id="Hello Ghost (2023)" tvg-name="Hello Ghost (2023)" group-title="Chinese Movies" tvg-logo="https://i.postimg.cc/43jWX3Sj/download-90.jpg", Hello Ghost (2023)
-https://stream.hownetwork.xyz/xxx/hello-ghost-2023-webdl_X_bb959417/19/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-name="FastX 2023" tvg-logo="https://i.postimg.cc/zfMGQnVm/film-fast-x-2023-lk21-d21-jpg.jpg" group-title="English Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",Fast X (2023)
-https://stream.hownetwork.xyz/xxx/fast-x-2023-bluray/2/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-name="Transformers2023" tvg-logo="https://i.postimg.cc/VvtVPw6z/film-transformers-rise-of-the-beasts-2023-lk21-d21-jpg.jpg" group-title="English Movies",Transformers : Rise Of The Beasts(2023)
-https://stream.hownetwork.xyz/xxx/transformers-rise-of-the-beasts-2023-bluray/14/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-name="Budak Flat 2023" tvg-logo="https://i.postimg.cc/NMHGzJg9/ppz2-Jmgmt1s-MDVw64z-Rz-QVXri63-150x225-jpg.jpg" group-title="Malaysian Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",Budak Flat (2023)
-https://stream.hownetwork.xyz/xxx/budak-flat-2023-webdl_X_8ae11f67/18/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Thanksgiving 2023" tvg-name="Thankgiving 2023" group-title="English Movies" tvg-logo="https://i.postimg.cc/8zc1cqwv/film-thanksgiving-2023-lk21-d21-jpg.jpg", Thanksgiving (2023)
-https://stream.hownetwork.xyz/xxx/thanksgiving-2023-webdl_X_c6cbe251/19/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Evil Dead Rise 2023" tvg-name="Evil Dead Rise 2023" group-title="English Movies" tvg-logo="https://i.postimg.cc/G3S4HMQZ/Screenshot-2023-12-24-234723.jpg",Evil Dead Rise (2023)
-https://stream.hownetwork.xyz/xxx/evil-dead-rise-2023-bluray/2/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Malbat:MisiBalkara2023" tvg-name="Malbat:Misi Bakara 2023" group-title="Malaysian Movies" tvg-logo="https://i.postimg.cc/pX8cSjh6/download-91.jpg", Malbat:Misi Bakara (2023)
-https://stream.hownetwork.xyz/xxx/malbatt-misi-bakara-2023-webdl_X_ccea65cf/19/480.m3u8|referer=http://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="Rebel Moon Part One:One A Child Of The Fire(2023)" tvg-name="Rebel Moon Part One:One A Child Of The Fire(2023)" group-title="English Movies" tvg-logo="https://i.postimg.cc/mrH8PPM9/Screenshot-2023-12-25-065431.jpg", Rebel Moon Part One:One A Child Of The Fire(2023)
-https://stream.hownetwork.xyz/xxx/rebel-moon-part-one-a-child-of-fire-2023-webdl_X_6fdbe5db/19/480.m3u8|referer=https://stream.hownetwork.xyz 
-
-#EXTINF:-1 tvg-id="TEENAGE MUTANT NINJA TURTLES: MUTANT MAYHEM (2023)" tvg-name="TEENAGE MUTANT NINJA TURTLES: MUTANT MAYHEM (2023)" tvg-logo="https://i.postimg.cc/hjPM0j6n/film-teenage-mutant-ninja-turtles-mutant-mayhem-2023-lk21-d21-jpg.jpg" group-title="English Animation Movies",TEENAGE MUTANT NINJA TURTLES: MUTANT MAYHEM (2023)
-https://stream.hownetwork.xyz/xxx/teenage-mutant-ninja-turtles-mutant-mayhem-2023-bluray_X_7b705c1c/18/480.m3u8|referer=https:stream.hownetwork.xyz 
+ 
 
 #EXTINF:-1 group-title="🇦🇺Australia🇦🇺" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
 http://free.cvmtv.site/10HD?token=live
@@ -3745,7 +3671,6 @@ http://ipcloud.live:8080/pktmedia/pktmedia.m3u8
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FMSN-TV.png?alt=media&token=e2a0664c-ef4f-4603-9936-2d4e439d4bc8" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",MSN TV
 https://ipcloud.live/msntv/msntv.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://firebasestorage.googleapis.com/v0/b/playnow-7ce03.appspot.com/o/LOGO%2FSAHARA-HD.png?alt=media&token=5c43da75-3639-4408-8964-0f62a61b9c03" group-logo="https://i.postimg.cc/6pjXsW9Y/download-86.png" group-title="South Indian",Sahara HD TV
 https://ipcloud.live/saharatv/saharatv.m3u8
@@ -4102,8 +4027,6 @@ https://webudit.webhd.ru/lb/premium307/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://01.webhd.ru/ddy5/premium341/tracks-v1a1/mono.m3u8
 
-
-
 #EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="USANETWORK.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -4195,20 +4118,6 @@ http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298528
 #EXTINF:-1   tvg-logo="https://i.ibb.co/KNSFQ9y/etv-bioskop.jpg" group-title="Indonesia Movies",ID: Etv Bioskop 04 (BOX OFFICE) 
 http://gamsgo.cyou:8080/aliza3359/bd2b6ba3/298529
 
-#EXTINF:-1 tvg-id="AQUAMAN2" tvg-name="AQUAMAN2" group-title="English Movies" tvg-logo="https://i.postimg.cc/bwXQWySB/download-2024-01-03-T150830-617.jpg",AQUAMAN AND THE LOST KINGDOM 2023
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.144 Mobile Safari/537.36
-https://milk.subtitlecloud.one/video/31-12-2023/6591c28d04eee/6591c28d04ef7.m3u8|Referer=https://embedrise.com/
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filem Klasik:P.Ramlee" tvg-logo="https://i.postimg.cc/qBhbYpjf/download-2024-01-03-T223033-776.jpg",Seniman Bujang Lapok 1961
-https://rr5---sn-ab5l6nrr.googlevideo.com/videoplayback?expire=1704313635&ei=w26VZdmRKve8_9EP6t6CqAM&ip=45.139.57.254&id=o-AJ7hMrbiKO6I02EGfTO_vqZqNgcmXIjwtjqFXGmu2xQL&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=xN&mm=31%2C26&mn=sn-ab5l6nrr%2Csn-t0a7lnee&ms=au%2Conr&mv=m&mvi=5&pl=24&initcwndbps=811250&spc=UWF9f4vCPmKoGOca-1F8DLJuyxFkvmE&vprv=1&svpuc=1&xtags=heaudio%3Dtrue&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=7237.799&lmt=1653578208086702&mt=1704291190&fvip=3&fexp=24007246&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAMhL7l9OgO1AAQ94WJ0ENgTFwEKAJDim_RVWfgoeIndiAiBdjr8BCvXhDSk5XBaKSARa4v4OXHjMYwHYGlGGiQRtHw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIgSoqMtuonK8cuX4qECs1tUQAgLNV2VA1o0P8jX7UpvwECIQDzmyRcyXrchIH3GEgYXSf53NPheIJyJIqasipEdo_irg%3D%3D&title=P%20Ramlee%20-%20Seniman%20Bujang%20Lapok%20%5BFull%20movie%20warna%5D|Referer=https:youtube.com 
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filem Klasik:P.Ramlee" tvg-logo="https://i.postimg.cc/HsDXBmrk/download-2024-01-03-T223213-617.jpg",Madu Tiga 1964
-https://rr2---sn-a5msenek.googlevideo.com/videoplayback?expire=1704314142&ei=vnCVZYPcDtDFsfIPkueOkAQ&ip=191.101.61.109&id=o-AAhh23pOe8ch_ZDudphdrS2BUOi6RLzC-SlK3WazRTdM&itag=22&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=Oz&mm=31%2C26&mn=sn-a5msenek%2Csn-o097znsl&ms=au%2Conr&mv=m&mvi=2&pl=24&initcwndbps=1487500&spc=UWF9f4Z1asrj-ABVEDcacGoGPhgjJ74&vprv=1&svpuc=1&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=5156.873&lmt=1699100849431836&mt=1704292166&fvip=2&fexp=24007246&c=ANDROID&txp=5432434&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhALPCVYpBBYQoonLJ6wlDyj7JsHMzTLHMkCStIWuBll3OAiApD81N8N72-H73PahfadxuNKT3mfmo0duX81uMZhs9Zg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIgO_XZsJFcDxTXyLyr_AJRzk-VonB0cBQ2izQSv34jbdMCIQDna37w5-mGwjMjNXZlxGWv4lYWOnVS18Ns2GhMymi5bw%3D%3D&title=FILEM%20KLASIK%20MALAYSIA%20%7C%20MADU%20TIGA%20P%20RAMLEE%20berwarna|Referer=https:youtube.com
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filem Klasik:P.Ramlee" tvg-logo="https://i.postimg.cc/zBqGPqsT/download-2024-01-03-T224802-767.jpg",Sarjan Hassan 1958
-https://rr8---sn-axq7sn7z.googlevideo.com/videoplayback?expire=1704314863&ei=j3OVZe-vKt_R6dsP_ZCfyAY&ip=165.231.182.34&id=o-ACYZkXSaalSX7decnpmhgeJ1K0ZKpmDJktquU57OymDn&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=CD&mm=31%2C26&mn=sn-axq7sn7z%2Csn-5go7ynl6&ms=au%2Conr&mv=m&mvi=8&pl=24&initcwndbps=316250&spc=UWF9fy7vx5ily0TaZVk9X5ClmtosryQ&vprv=1&svpuc=1&xtags=heaudio%3Dtrue&mime=video%2Fmp4&cnr=14&ratebypass=yes&dur=6735.505&lmt=1661959087355030&mt=1704292166&fvip=4&fexp=24007246&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cxtags%2Cmime%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAOc2OS0YgpA15omGFaH9RPGGGU4GVlPf1e-XrFJaBXE1AiBTZTbd9fhKIhpRvTOnzISd6Pk6NeyL0JOn_oS4s49uCQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AAO5W4owRQIhAOgLgiAFMwA1578G5XP5sDhla_dsGo70w137c2iOLRrIAiBgKvTrpQnsH8IEeXtEEQxL0bI9UuQnOqWvs9xPeCvcxg%3D%3D&title=Sarjan%20Hassan%20(1958)%20%20%7C%20Versi%20Warna|Referer=https:youtube.com 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORTS CAMPURAN" tvg-logo="https://i.postimg.cc/3wHXt0V8/download-2024-01-04-T074724-193.png",ESPN USA
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
@@ -4228,14 +4137,6 @@ https://webudit.webhd.ru/lb/premium364/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium365/index.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Malaysian Movies" tvg-logo="https://i.postimg.cc/25HjK2Hn/download-2024-01-05-T223012-751.jpg",Gemencheh Boys 2023
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"b495e858f006b2b19bcd3afc41f1a610": "37bd595f477a87700e576ec0d219668c"}
-https://vodejitp-asset-playback-b.astro.com.my/v3/default/dash-wv/vode/8872602a-4b11-571a-8e4d-23fb37be426f/default_primary.mpd
 
 #EXTINF:-1 group-title="🇬🇧UK LOCAL🇬🇧" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/800px-BBC_One_logo_2021.svg.png",BBC One
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
@@ -4318,10 +4219,7 @@ https://cdnjkt2.transvision.co.id:1001/live/master/4/4028c6856fd0d66d0170341bf10
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net:443/?deviceId=NDljZWY3MGUtM2I0Ni0zODQyLTk3ZjItMDI0MWFjOTA4ODc1
 #EXTINF:-1 group-title="Movies Campuran" tvg-logo="https://i.postimg.cc/7hh7GMCS/download-31.jpg",Zee Bioskop
 https://newanv-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
-
-#EXTINF:-1 tvg-id="EXPEND4BLES (2023)" tvg-name="EXPEND4BLES (2023)" group-title="English Movies" tvg-logo="https://i.postimg.cc/YqsXz0yY/film-expend4bles-2023-lk21-d21-jpg.jpg",EXPEND4BLES (2023)
-https://stream.hownetwork.xyz/xxx/expend4bles-2023-bluray_X_3c050818/18/480.m3u8|Referer=https:stream.hownetwork.xyz 
-
+ 
 #EXTINF:-1 group-title="Sports Campuran" tvg-logo="",TYC Sport mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4711,21 +4609,14 @@ http://89.254.128.5:22280/viasat_kino_action/index.m3u8
 #EXTINF:-1 tvg-id="Super!"  tvg-logo="https://i.postimg.cc/FKyDs7TK/download-2024-01-17-T123227-426.png" group-title="Kids",Super!(東森電影) (1080p)
 https://vimnitaly.akamaized.net/hls/live/2094034/super/master-2500.m3u8
 
-
 #EXTINF:-1 tvg-id="Carousel.ru" tvg-logo="https://i.postimg.cc/Y0HRWgCV/download-2024-01-17-T123344-546.png" group-title="Kids",Карусель
-http://moobl.ru/hls/Karusel.m3u8
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CarouselInternational.ru", group-logo="https://i.postimg.cc/Y0HRWgCV/download-2024-01-17-T123344-546.png" group-title="Kids",Карусель Int
-http://moobl.ru/hls/Karusel_int.m3u8
+http://86.57.211.182:32200/Karusel/index.m3u8?auth=token:test)
 
 #EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/h4mP4mxn/download-2024-01-17-T123723-820.png" group-title="Entertainment",Fox
-http://moobl.ru/hls/Fox.m3u8
-
-#EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/7YLgprmG/download-2024-01-17-T145219-546.png" group-title="LIVE EVENTS",PETRONAS MALAYSIA OPEN 2024
-https://prod-ent-live-gm.jiocinema.com/hls/live/2099121/hd_akamai_merged_avc_eng_bwf_m1_170124/master_p2.m3u8?utm_medium=social&utm_source=heylink.me
-
-#EXTINF:-1,tvg-id="" tvg-logo="https://i.postimg.cc/nr8gzM12/Screenshot-2024-01-17-172410.jpg" group-title="Anime Movies",Maboroshi 2023
-https://stream.hownetwork.xyz/xxx/maboroshi-2023-webdl_X_396d06bd/19/480.m3u8|Referer=https://stream.hownetwork.xyz 
+http://moobl.ru/hls/Fox.m3u8 
 
 #EXTINF:-1 logo="http://203.80.165.14/imagecache/1033" tvg-id="24907eda7482b7ea5704d87ca7b6cb2c" group-title="🇰🇭Cambodia🇰🇭",MYTV
 http://203.80.165.14/stream/channelid/1518243876?profile=pass
@@ -5848,12 +5739,6 @@ https://webudit.webhd.ru/lb/premium61/index.m3u8
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://webudit.webhd.ru/lb/premium90/index.m3u8
-
-#EXTINF:-1 tvg-id="Tigers2023" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-tiger-3-2023-lk21-d21.jpg" group-title="India Movies",Tigers 3 (2023)
-https://sekedarinfo.skin/xxx/tiger-3-2023-webdl_X_e9a71c29/19/480.m3u8|Referer=https://sekedarinfo.skin
-
-#EXTINF:-1 tvg-id="TheBeeKeeper2024" tvg-logo="https://s6.lk21static.xyz/wp-content/uploads/2024/01/film-the-beekeeper-2024-lk21-d21.jpg" group-title="English Movies",The Beekeeper (2023)
-https://jujijaji.pics/xxx/the-beekeeper-2024-webdl_X_9aa0d5fe/20/480.m3u8|Referer=https://jujijaji.pics
 
 #EXTINF:0 tvg-id="Filmbox Premium.ro" tvg-logo="https://i.postimg.cc/9Mx3p9Hs/download-2024-02-07-T195259-079.jpg" group-title="Movies Campuran 2",RO : FILM BOX PREMIUM
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
