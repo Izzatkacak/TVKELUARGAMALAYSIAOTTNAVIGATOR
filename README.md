@@ -12,6 +12,10 @@ ______________________________________________
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="🇮🇩Indonesia🇮🇩", KTV
 https://gachor99.my.id/play.m3u8?id=ktv
 
+#EXTINF:-1 group-title="NjoiFree" tvg-id="JomMengaji" tvg-logo="https://i.postimg.cc/xjRJPq5j/Sooka-Jom-Ngaji.png",Jom Mengaji
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.106 Mobile Safari/537.36
+https://66828a1cef624acf8412bae79cd7ad3e.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_6_Ad/dash.mpd?aws.sessionId=34fd3027-0b4b-4e51-a01f-d60263cd1184|Referer:https://sooka.my/
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Kids", Tooncast
 http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 
