@@ -12,8 +12,8 @@ ______________________________________________
 #EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="🇮🇩Indonesia🇮🇩", KTV
 https://gachor99.my.id/play.m3u8?id=ktv
 
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_kidszone.png" group-title="Kids", KIDS ZONE PLUS
-https://gachor99.my.id/play.m3u8?id=kidszoneplus
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Tooncast.png" group-title="Kids", Tooncast
+http://stream.flynetwifi.com:1935/live/mobile-002/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TrueSparkJump" group-title="Kids" tvg-logo="https://i.postimg.cc/CLDTfSFJ/download-2024-02-20-T003016-223.png", True Spark Jump TH
 http://clientsportals.info:2095/play/live.php?mac=00:1A:79:B4:3C:2A&stream=115529&extension=ts&play_token=J7cWTOYGFF
