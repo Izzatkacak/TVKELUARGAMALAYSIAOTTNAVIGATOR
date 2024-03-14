@@ -5827,7 +5827,7 @@ https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manife
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9kaCrwja+9UyGnwgBLC+pw","kid":"mQCIkRzjUcaAG1ZXRWXxTg"}],"type":"temporary"}
 https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
-#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4UMovies" tvg-logo="https://i.postimg.cc/ZRDSSL3w/download-95.png" group-logo="https://i.postimg.cc/dDP8B1zZ/images-8.jpg" group-title="Movies Campuran 2",B4U Movies (TataPlay)
+#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4UMovies" tvg-logo="https://i.postimg.cc/ZRDSSL3w/download-95.png" group-title="Movies Campuran",B4U Movies (TataPlay)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DIdHk/IboxBe3P8lJg9gWA","kid":"ygyQR/9xUhiRM4x8F8dw3Q"}],"type":"temporary"}
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd|X-Forwarded-For=49.32.114.118
