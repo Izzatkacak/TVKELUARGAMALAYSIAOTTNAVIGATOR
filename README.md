@@ -39,12 +39,15 @@ http://animezonetv.net/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1710fd0de6f0939d3d7fd4c67f7dc410:bc06c86c2657db6521e2d880e7790a9f
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5112/default_primary.mpd
 
-#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network India
-http://89.254.128.5:22280/cartoon_network/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NVP2Nf2xs/AG2a647XNB6w","kid":"9YFCTBTjXu6STwoLnSLIHA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts681" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",Cartoon Network HD+
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_925/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
-#EXTINF:0 tvg-id=""tvg-logo="https://i.postimg.cc/Kjz9MzYq/download-2024-01-28-T220803-711.png" group-title="Kids",Nick Plus HD
-http://4ksuper.live:80/live/nilsson/nilsson/282630.ts
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"OTPLvEL92bH3g945TaGlLQ","kid":"1FUF4e02UGynKzntoQbTPw"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts433" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11658-j9k5lvgo-v1/imageContent-11658-j9k5lvgo-m1.png",Nick HD+
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_663/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
 #EXTINF:-1, group-title="NjoiFree" tvg-id="" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
@@ -5831,3 +5834,8 @@ https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manife
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DIdHk/IboxBe3P8lJg9gWA","kid":"ygyQR/9xUhiRM4x8F8dw3Q"}],"type":"temporary"}
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd|X-Forwarded-For=49.32.114.118
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"IDFSFRoTnHAMcljmKpgrpw","kid":"ULbMSBf5U4yRbOLhGSKBYA"}],"type":"temporary"}
+#EXTINF:-1 tvg-id="ts587" group-title="Kids" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",Super Hungama
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_781/output/manifest.mpd|X-Forwarded-For=49.32.114.118
