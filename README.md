@@ -3549,8 +3549,10 @@ http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40255
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/13ZJgmZD/download-85.jpg" group-title="BeIN Group", Bein Sports 7 AR
 http://mega4k.net:8080/NOURBAR100CONX/VDFVRGFBFBGBGGG/40261
 
-#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4UMovies" tvg-logo="https://i.postimg.cc/ZRDSSL3w/download-95.png" group-logo="https://i.postimg.cc/dDP8B1zZ/images-8.jpg" group-title="Hindi Movies",B4U Movies (TataPlay)
-http://sansat.net:88/02024036717143/mS34FIbmhBXJjsp/96189
+#EXTINF:-1 tvg-id="B4UMovies" tvg-name="B4UMovies" tvg-logo="https://i.postimg.cc/ZRDSSL3w/download-95.png" group-logo="https://i.postimg.cc/dDP8B1zZ/images-8.jpg" group-title="Movies Campuran 2",B4U Movies (TataPlay)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"DIdHk/IboxBe3P8lJg9gWA","kid":"ygyQR/9xUhiRM4x8F8dw3Q"}],"type":"temporary"}
+https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_276/output/manifest.mpd|X-Forwarded-For=49.32.114.118
  
 
 #EXTINF:-1 group-title="🇦🇺Australia🇦🇺" tvg-id="10hd" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Network_10_logo_2018.svg/1200px-Network_10_logo_2018.svg.png",10 HD
@@ -5416,13 +5418,19 @@ http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558746
 http://mix-dns.com:8080/kmcneill65@comcast.net/vDmyPDxBya/558750
 
 #EXTINF:-1 tvg-id="MoviesNow" tvg-logo="https://i.postimg.cc/k5Hj8t59/download-9.jpg" group-title="Movies Campuran",Movies Now
-http://4ksuper.live:80/live/nilsson/nilsson/282651.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3759fa16c5695eb198af6746d52b11d8:9549095a04d81def9a48d6d02340b1c9
+https://bpprod3catchup.akamaized.net/bpk-tv/irdeto_com_Channel_563/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
 #EXTINF:-1 tvg-id="MN+" tvg-logo="https://i.postimg.cc/nzvvzsj3/download-4.png" group-title="Movies Campuran",MN Plus
-http://4ksuper.live:80/live/nilsson/nilsson/156025.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6db394e030658fd866dd2970c90b596:1b6d0d464f632b10dfa3eb4f06c7a04b
+https://bpprod5catchup.akamaized.net/bpk-tv/irdeto_com_Channel_259/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
 #EXTINF:-1 tvg-id="MNX" tvg-logo="https://i.postimg.cc/YC2SJvz1/download-7.png" group-title="Movies Campuran",MNX 
-http://4ksuper.live:80/live/nilsson/nilsson/156021.ts
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"9kaCrwja+9UyGnwgBLC+pw","kid":"mQCIkRzjUcaAG1ZXRWXxTg"}],"type":"temporary"}
+https://bpprod1catchup.akamaized.net/bpk-tv/irdeto_com_Channel_237/output/manifest.mpd|X-Forwarded-For=49.32.114.118
 
 #EXTINF:0 tvg-id="Star Movies" tvg-name="" tvg-logo="https://i.postimg.cc/G27bvKyt/download-5.png" group-title="Movies Campuran",Star Movies (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
