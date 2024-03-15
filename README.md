@@ -269,7 +269,7 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
-http://mohdtv.com:8880/live/ALLChannels580cde0012c3/49768421/1705.m3u8
+http://vo01.mohdtv.com:8880/live/voby2783/42632514/1705.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"} 
@@ -287,7 +287,7 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-http://50.7.234.10:8278/Warna-O/playlist.m3u8
+http://vo01.mohdtv.com:8880/live/voby2783/42632514/1706.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
 http://50.7.234.10:8278/Citra_xue/playlist.m3u8
