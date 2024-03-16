@@ -1159,7 +1159,7 @@ https://linearjitp02-playback.astro.com.my/dash-wv/linear/5056/default.mpd
 https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/401/logo/240x240/mobile_logo_394610001675857887.png" group-title="Entertainment",Zee Cafe HD
-https://mhdtv.co.in/jio/stream.php?id=1319&e=.m3u8|Referer=https://mhdtv.co.in/
+http://4ksuper.live:80/play/live.php?mac=00:1A:79:1E:03:56&stream=155730&extension=ts&play_token=kldhFjRPgY&sn2=
 
 #EXTINF:-1 group-title="Entertainment" tvg-id="ARIRANG" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg",ARIRANG
 #KODIPROP:inputstream.adaptive.license_type=clearkey
