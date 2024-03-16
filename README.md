@@ -10,6 +10,21 @@
 #EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml"
 
 ______________________________________________
+#EXTINF:-1 channel-id="pluto-63da36dea995710008727d4d" tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" tvg-chno="816" group-title="PlutoTV:Kids" , Transformers
+https://r.mjh.nz/PlutoTV/63da36dea995710008727d4d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-65a669ab2fac9c000835c443" tvg-id="65a669ab2fac9c000835c443" tvg-logo="https://images.pluto.tv/channels/65a669ab2fac9c000835c443/colorLogoPNG.png" tvg-chno="813" group-title="PlutoTV:Kids" , Teenage Mutant Ninja Turtles
+https://r.mjh.nz/PlutoTV/65a669ab2fac9c000835c443-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-62e95265c9fd030007268fb9" tvg-id="62e95265c9fd030007268fb9" tvg-logo="https://images.pluto.tv/channels/62e95265c9fd030007268fb9/colorLogoPNG.png" tvg-chno="814" group-title="PlutoTV:Kids" , Totally Turtles
+https://r.mjh.nz/PlutoTV/62e95265c9fd030007268fb9-alt.m3u8
+
+
+#EXTINF:-1 channel-id="pluto-654ca7f92c1d3300086b608c" tvg-id="654ca7f92c1d3300086b608c" tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG.png" tvg-chno="810" group-title="PlutoTV:Kids" , NickToons
+https://r.mjh.nz/PlutoTV/654ca7f92c1d3300086b608c-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-63f87d057533d80008ab9549" tvg-id="63f87d057533d80008ab9549" tvg-logo="https://images.pluto.tv/channels/63f87d057533d80008ab9549/colorLogoPNG.png" tvg-chno="811" group-title="PlutoTV:Kids" , SpongeBob SquarePants
+https://r.mjh.nz/PlutoTV/63f87d057533d80008ab9549-alt.m3u8
 
 #EXTINF:-1 group-title="NjoiFree" tvg-id="JomMengaji" tvg-logo="https://i.postimg.cc/xjRJPq5j/Sooka-Jom-Ngaji.png",Jom Mengaji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.106 Mobile Safari/537.36
