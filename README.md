@@ -8,9 +8,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml"
 #EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml"
+
 ______________________________________________
-#EXTINF:-1 tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_ktv.png" group-title="🇮🇩Indonesia🇮🇩", KTV
-https://gachor99.my.id/play.m3u8?id=ktv
 
 #EXTINF:-1 group-title="NjoiFree" tvg-id="JomMengaji" tvg-logo="https://i.postimg.cc/xjRJPq5j/Sooka-Jom-Ngaji.png",Jom Mengaji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.106 Mobile Safari/537.36
