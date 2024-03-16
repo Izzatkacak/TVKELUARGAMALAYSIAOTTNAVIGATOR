@@ -10,6 +10,9 @@
 #EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml"
 
 ______________________________________________
+#EXTINF:-1 channel-id="pluto-656df599c0fc8800089c75ab" tvg-id="656df599c0fc8800089c75ab" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-chno="23" group-title="PlutoTV:Kids" , Avatar
+https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
+
 #EXTINF:-1 channel-id="pluto-63da36dea995710008727d4d" tvg-id="63da36dea995710008727d4d" tvg-logo="https://images.pluto.tv/channels/63da36dea995710008727d4d/colorLogoPNG.png" tvg-chno="816" group-title="PlutoTV:Kids" , Transformers
 https://r.mjh.nz/PlutoTV/63da36dea995710008727d4d-alt.m3u8
 
