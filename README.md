@@ -2890,9 +2890,6 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Movies Campuran",MBC MOVIES
 https://shls-live-ak.akamaized.net/out/v1/90143f040feb40589d18c57863d9e829/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/602/logo/240x240/mobile_logo_495351001666780441.png" group-title="India Campuran",Sony Entertainment HD
-http://103.120.172.74:5100
-
 #EXTINF:-1 group-title="Korean" group-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", Mnet
 https://apwb.short.gy/MNetKorea/index.m3u8
 
