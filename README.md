@@ -8,8 +8,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml"
 #EXTM3U x-tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml"
 #EXTM3U x-tvg-url="https://azimabid00.github.io/epg/astro_epg.xml"
-
 ______________________________________________
+
 #EXTINF:-1 channel-id="pluto-656df599c0fc8800089c75ab" tvg-id="656df599c0fc8800089c75ab" tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-chno="23" group-title="PlutoTV:Kids" , Avatar
 https://r.mjh.nz/PlutoTV/656df599c0fc8800089c75ab-alt.m3u8
 
