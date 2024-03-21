@@ -288,10 +288,8 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 http://vo01.mohdtv.com:8880/live/voby2783/42632514/1705.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"hBL0RP++NQzy7OBR+RUukA","kid":"C2Uyau3j7b6B5vtAMX1TEA"}],"type":"temporary"} 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
-https://linears-playback.astro.com.my/vsg/41h9VihmqDXcQRss_lmm5zsg5Yk8d-yGUwcfXjFMSgvnk=GNf5/dash-wv/jitp-dashisowm/1000/default_primary.mpd
+http://vo01.mohdtv.com:8880/live/smarttv585cde005260/50168743/1702.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/br0nzF9q/download-2024-02-06-T073900-295.jpg" group-title="Astroxx",Astro Sensasi
 http://50.7.234.10:8278/Sensasi/playlist.m3u8
@@ -304,7 +302,7 @@ http://50.7.234.10:8278/Sensasi/playlist.m3u8
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
 #EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfp8F.png",Astro Warna HD CH107
-http://vo01.mohdtv.com:8880/live/voby2783/42632514/1706.m3u8
+http://50.7.234.10:8278/Warna-O/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="Astroxx" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nfyyg.png",Astro Citra HD CH108
 http://50.7.234.10:8278/Citra_xue/playlist.m3u8
