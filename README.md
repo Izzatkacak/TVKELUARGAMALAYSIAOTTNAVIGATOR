@@ -285,8 +285,12 @@ https://tglmp03.akamaized.net/out/v1/14eb6e921cae41298efaa4d9db0f2875/manifest.m
 #EXTINF:-1 group-title="🇸🇬Singapore🇸🇬" tvg-id="1002" tvg-chno="1002" tvg-logo="https://i.postimg.cc/0NQWcf6q/download-73.png",CNA
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
-http://vo01.mohdtv.com:8880/live/voby2783/42632514/1705.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="4 Serangkai" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
+https://linears-playback.astro.com.my/vsg/41AzOOiRtNHL_h4U_rWhF5F-qgf84VCqZOGtEbo0EV0Uk=jhYe/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
 http://vo01.mohdtv.com:8880/live/smarttv585cde005260/50168743/1702.m3u8
