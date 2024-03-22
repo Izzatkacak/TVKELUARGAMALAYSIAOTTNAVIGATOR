@@ -289,7 +289,7 @@ https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.m
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N2sAl5bkrVDqj2jXlmdmkg", "kid":"P3Jv1cu/WURDek2/q0MbEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="4 Serangkai" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" group-title="Astroxx" tvg-logo="https://iili.io/1NK3OJ.png",Astro Ria HD CH104
 https://linears-playback.astro.com.my/vsg/41AzOOiRtNHL_h4U_rWhF5F-qgf84VCqZOGtEbo0EV0Uk=jhYe/dash-wv/jitp-linearwm/1004/default_ott.mpd
 
 #EXTINF:-1 tvg-id="105.astro" tvg-name="PRIMA HD" group-title="Astroxx" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" ch-number="105",Digital Prima 
