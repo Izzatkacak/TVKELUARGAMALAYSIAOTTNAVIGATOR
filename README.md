@@ -5927,3 +5927,24 @@ https://28163.live.streamtheworld.com/RADIO_KLASIKAAC.aac?dist=triton-widget&tds
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
 Accept-Encoding:identity;q=1, *;q=0
 https://28103.live.streamtheworld.com/ASYIK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=20a91380-33d2-4112-aa27-a3a10980ec0c|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-rock/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Rock Kapak
+https://stream.rcs.revma.com/rz43weh811uvv/14_tnn9hdj4xkdf02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-rock/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Jiwang
+https://stream.rcs.revma.com/5s38zah811uvv/10_590dg8vsj5eh02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-sinema/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Sinema
+https://stream.rcs.revma.com/5s38zah811uvv/10_590dg8vsj5eh02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-popyehyeh/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Pop Yeah Yeah!!
+https://stream.rcs.revma.com/1scz4dh811uvv/12_z9rqq4yz1l3902/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-irama80/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Irama 80'
+https://stream.rcs.revma.com/xdz7f5g811uvv/12_1h0oozvkymavq02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/sinar-irama70/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Sinar FM:Irama 70'
+https://stream.rcs.revma.com/bb4ey1g811uvv/5_h8se2uqccdl802/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Thr FM:Hindi Power
+https://stream.rcs.revma.com/ggn4nww711uvv/14_1i7758mcu6ofq02/playlist.m3u8
