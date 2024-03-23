@@ -5895,3 +5895,35 @@ https://edge-vod02-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_Live_dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
 https://edge-vod02-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM@Radio",Nasional FM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://22273.live.streamtheworld.com/NASIONAL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=f67c7a46-4d00-4f15-afa0-9730d9f84b03|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-traxx.0a686746.jpg" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM@Radio",Traxx FM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://22273.live.streamtheworld.com/TRAXX_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=01276616-3fee-4306-e3d2-f2ae587e054d|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-ai.028c2b41.jpg" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847"  group-title="RTM@Radio",AiFM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://22243.live.streamtheworld.com/AI_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=4ce3b0f0-f1e7-43ee-db7e-d0d42f9e3c6e|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-minnal.891948ec.jpg" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM@Radio",MinnalFM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://22273.live.streamtheworld.com/MINNAL_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=6b7d0e79-8bee-4532-80b8-a703b5b02910|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-klasik.c7b4564b.jpg" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM@Radio",KlasikFM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://28163.live.streamtheworld.com/RADIO_KLASIKAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=b9d43c11-e0d1-40d1-a229-b2a841f809b1|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-asyik.1aa893cd.jpg"  group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM@Radio",Asyik FM 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+Accept-Encoding:identity;q=1, *;q=0
+https://28103.live.streamtheworld.com/ASYIK_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=20a91380-33d2-4112-aa27-a3a10980ec0c|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
