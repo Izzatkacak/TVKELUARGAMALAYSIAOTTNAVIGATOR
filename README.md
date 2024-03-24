@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml" refresh="1440" billed-msg="PLAYLIST INI PERCUMA,TIDAK UNTUK DIJUAL"
 
 #EXTM3U url-tvg="https://i.mjh.nz/PlutoTV/all.xml.gz"
-#EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/us.xml.gz"
+#EXTM3U x-tvg-url="httpHD://i.mjh.nz/SamsungTVPlus/us.xml.gz"
 #EXTM3U x-tvg-url="https://i.mjh.nz/SamsungTVPlus/kr.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/weareblahs/epg/master/mytv.xml"
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml"
@@ -5948,3 +5948,7 @@ https://stream.rcs.revma.com/bb4ey1g811uvv/5_h8se2uqccdl802/playlist.m3u8
 
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Thr FM:Hindi Power
 https://stream.rcs.revma.com/ggn4nww711uvv/14_1i7758mcu6ofq02/playlist.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/915pZrx.png"  group-title="Entertainment",Zee Cafe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+https://mhdtv.co.in/jio/stream.m3u8?id=1319
