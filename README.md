@@ -5949,6 +5949,3 @@ https://stream.rcs.revma.com/bb4ey1g811uvv/5_h8se2uqccdl802/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Thr FM:Hindi Power
 https://stream.rcs.revma.com/ggn4nww711uvv/14_1i7758mcu6ofq02/playlist.m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/915pZrx.png"  group-title="Entertainment",Zee Cafe HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
-https://mhdtv.co.in/jio/stream.m3u8?id=1319
