@@ -516,10 +516,10 @@ http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
 http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1024px-ViuTVsix-logo.svg.png" group-title="🇭🇰Hong Kong🇭🇰",ViuTV6
-http://free.cvmtv.site/Viu6?token=live
+http://198.16.100.90:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
 
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/1280px-ViuTV_logo.svg.png" group-title="🇭🇰Hong Kong🇭🇰",ViuTV
-http://free.cvmtv.site/Viu?token=live
+http://198.16.100.90:8278/viu1_twn/playlist.m3u8?tid=MF9F2344917423449174&ct=19254&tsum=3cb061ac749a32280d3b88c022a1403f
 
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
