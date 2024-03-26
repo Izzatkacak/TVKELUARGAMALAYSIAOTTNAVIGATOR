@@ -1007,14 +1007,8 @@ https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 #EXTINF:-1 tvg-id="UrbanKids" tvg-logo="" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids",Urban Kids 
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://i.postimg.cc/BbNYwY8K/images-5.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids", Anime X Hidive
-https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8?ads.wurl_channel=1398&ads.wurl_name=ANIMExHIDIVE&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D
-
 #EXTINF:-1 group-title="Kids" tvg-id="POP Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/fWHfp02m/download-31.jpg", POP Kids
 https://narrative-popkids-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-narrative-popkids-rakuten/CDN/master.m3u8?ads_amagi_channel=850&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_gdpr_consent=&ads_market=uk&ads_os_language=&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_rtv_content_id=4880&ads_rtv_content_language=eng&ads_rtvid=271858&ads_streaming_id=6134a39f-b713-4d7f-b5be-4c49f0de5f63&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
-
-#EXTINF:-1 group-title="Kids" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
-https://neetball.net/live/neet3.m3u8
 
 #EXTINF:-1 tvg-id="KBSKIDS" group-logo ="group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/nrgR2nTv/download-2023-07-01-T161248-552.png"  group-title="Kids", KBS KIDS
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
@@ -2942,9 +2936,6 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-024/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=MDQ0MjUzNzktMzc1OC0zNDBiLWJiNjktOWM2MTcxMTJmZDhj
 #EXTINF:-1 tvg-id="701" ch-number="701" group-title="⚽️Sports⚽️" tvg-logo="https://aqfadtv.xyz/logos/UnifiSports1_v1.png",unifi Sports 1 HD
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
-
-#EXTINF:-1 tvg-logo="https://i1.wp.com/nerdtec.net/wp-content/uploads/2016/06/anime-2.png" group-title="Kids",ANIME TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w362127434.m3u8
 
 #EXTINF:-1 tvg-id="OmanTVCultural.om" tvg-logo="https://i.imgur.com/b38wNPK.png" group-title="Arabic Local",Oman Althakafia (1080p)
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
@@ -5940,3 +5931,9 @@ https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 tvg-id="XtremaNime" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/V6yxh1SB/download-2023-06-02-T012400-177.jpg" group-title="AnimeChannel",Xtrema Anime
 https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.postimg.cc/BbNYwY8K/images-5.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids", Anime X Hidive
+https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Redbox_ANIMExHIDIVE/playlist.m3u8?ads.wurl_channel=1398&ads.wurl_name=ANIMExHIDIVE&ads.coppa=%7Bcoppa%7D&ads.subp=%7Bsubp%7D&ads.deviceid=%7Bdeviceid%7D&ads.dnt=%7Bdnt%7D&ads.sz=%7Bsz%7D&ads.idtype=%7Bidtype%7D&ads.device=%7Bdevice%7D&ads.is_roku_lat=%7Bis_roku_lat%7D&ads.us_privacy=%7Bus_privacy%7D&ads.app_bundle=%7Bapp_bundle%7D&ads.studio_name=%7Bstudio_name%7D&ads.language=%7Blanguage%7D
+
+#EXTINF:-1 group-title="AnimeChannel" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
+https://neetball.net/live/neet3.m3u8
