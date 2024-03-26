@@ -1028,9 +1028,6 @@ http://clientsportals.info:2095/play/live.php?mac=00:1A:79:B4:3C:2A&stream=33668
 #EXTINF:-1 tvg-id="9GO" tvg-logo="https://i.postimg.cc/LXRnLtbh/images-7.jpg" group-title="Kids",9Go
 http://fuckyouall111av.funtogether.xyz:8080/m6MBRJcUDu/mkgB3PJCYb/30014?play_token=lvcJnZnkTD
 
-#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="Kids" , Crunchyroll
-https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
-
 #EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network (Russian+English)
 http://9002bc70.ottrast.com/iptv/HXTW335VAVK3HG/9261/index.m3u8
 
@@ -5937,3 +5934,6 @@ https://b92ce5e96c924931a49f2d97401db3a9.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 group-title="AnimeChannel" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png", AT-X HD (Test)
 https://neetball.net/live/neet3.m3u8
+
+#EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="AnimeChannel" , Crunchyroll
+https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
