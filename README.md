@@ -945,12 +945,7 @@ https://linearjitp-playback.astro.com.my:443/dash-wv/linear/5093/default_ott.mpd
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5095/default.mpd
 
 #EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webudit.webhd.ru/lb/premium330/index.m3u8
-
-#EXTINF:-1 tvg-id="NickEast.us" tvg-logo="https://i.postimg.cc/1zSChyBm/download-2023-12-28-T081807-881.png" group-title="Kids",Nickelodeon East (B)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479229&extension=ts
+http://143.244.60.30/NICKELODEON/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/SNC2C2tR/download-2023-03-17-T214110-590.jpg", group-title="Kids", Toonami AfterMath East
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8
@@ -963,52 +958,6 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 
 #EXTINF:-1 tvg-id="POPMAX" tvg-name="POPMAX" tvg-logo="https://i.postimg.cc/d17dJgVN/download-2023-06-15-T230730-743.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids",POP MAX UK (B)
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
-
-
-#EXTINF:-1 group-title="Kids" tvg-id="KIDSSTATION.JP" tvg-logo="https://i.postimg.cc/zf1FvxsY/download-22.png" ,Kids Station Japan 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
-#EXTINF:-1 group-title="Kids" tvg-id="" tvg-chno="" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",ANIMAX (SGP)
-https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
-#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="Kids",Animax (UnifiTV Feed)
-https://centerrrs.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
-
-#EXTINF:0 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="Kids",ANIMAX (Indonesia Feed)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
-https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
-
-#EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus (Philipines Feed)
-https://code.vthanhtivi.pw/getlink/eazie/241430/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Aniplus" group-title="Kids" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus (Indonesia Feed)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
-
-#EXTINF:-1 tvg-id="animaxhd" group-title="Kids" tvg-logo="https://aqfadtv.xyz/logos/Animax.png", Animax (ViettelTV Feed) 
-http://vthanhtivi.pw:5000/animax/index.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito" group-title="Kids" tvg-logo="https://i.postimg.cc/rps4QWbP/download-50.png", Cartoonito HD
-http://vthanhtivi.pw:5000/boomerang/index.m3u8
-
-#EXTINF:-1 group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-id="animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png", BS Animax 
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-
-#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids" , Animax 반지의 비밀일기
-https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8|user-agent=okhttp/4.10.0
-
-#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids" , Animax 하이큐!!
-https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
 
 #EXTINF:-1 group-title="Kids" tvg-id="disneychanneleast.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -1055,9 +1004,6 @@ http://fuckyouall111av.funtogether.xyz:8080/m6MBRJcUDu/mkgB3PJCYb/5190?play_toke
 #EXTINF:-1 group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/VsBRk971/download-2023-06-02-T004905-154.png", group-title="Kids", FOX KIDS ARG
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 tvg-id="XtremaNime" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/V6yxh1SB/download-2023-06-02-T012400-177.jpg" group-title="Kids",Xtrema Anime
-https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
-
 #EXTINF:-1 tvg-id="UrbanKids" tvg-logo="" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids",Urban Kids 
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8
 
@@ -1073,20 +1019,14 @@ https://neetball.net/live/neet3.m3u8
 #EXTINF:-1 tvg-id="KBSKIDS" group-logo ="group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/nrgR2nTv/download-2023-07-01-T161248-552.png"  group-title="Kids", KBS KIDS
 https://code.vthanhtivi.pw/getlink/kbs/N96/playlist.m3u8
 
-
 #EXTINF:-1 tvg-id="NickToon.us" tvg-logo="https://i.postimg.cc/Hnzv3RXY/download-2023-12-28-T081156-932.png" group-title="Kids",NickToon East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webudit.webhd.ru/lb/premium649/index.m3u8
+http://143.244.60.30/NICKTOONS/index.m3u8
 
 #EXTINF:-1 tvg-id="TeeNick" tvg-name="TeeNick" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/G3XMwG6Z/download-88.png",TeeNick
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479234&extension=ts
 
 #EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (A)
 http://606074135929276135.ofd0219.xyz:80/live/Siurana816D/SiuranaM121/778242.ts
-
-#EXTINF:-1 tvg-id="PandaKids" tvg-logo="https://i.postimg.cc/T25NSyx2/download-67.png" group-title="Kids",Panda Kids (B)
-http://fuckyouall111av.funtogether.xyz:8080/m6MBRJcUDu/mkgB3PJCYb/101164?play_token=AY2n6Iu33k
 
 #EXTINF:-1 tvg-id="TVPABC" tvg-logo="https://i.postimg.cc/65Nt3WF5/images-8.jpg" group-title="Kids",TVP ABC 
 http://clientsportals.info:2095/play/live.php?mac=00:1A:79:B4:3C:2A&stream=33668&extension=ts&play_token=Ugwy0KnA4H
@@ -5949,3 +5889,54 @@ https://stream.rcs.revma.com/bb4ey1g811uvv/5_h8se2uqccdl802/playlist.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://media2.fishtank.my/stations/gegar_hindi/080224/square_md.png"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",Thr FM:Hindi Power
 https://stream.rcs.revma.com/ggn4nww711uvv/14_1i7758mcu6ofq02/playlist.m3u8
 
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/915pZrx.png"  group-title="Entertainment",Zee Cafe HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/122.0.6261.119 Mobile Safari/537.36
+https://mhdtv.co.in/jio/stream.m3u8?id=1319
+
+#EXTINF:-1, tvg-id="Filmrise:Anime" tvg-name="Filmrise:Anime" tvg-logo="https://m.media-amazon.com/images/I/718q+Qt+ynL.png" group-logo="https://www.nicepng.com/png/detail/140-1401862_all-the-anime-logo.png" group-title="AnimeChannel",Filmrise:Anime
+https://d2spdq8rliqjem.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-therokuchannel/48dd9574-fb64-4a0d-af40-63999ff56413/5.m3u8?ads.xumo_channelId=88884004
+
+#EXTINF:-1, tvg-id="Filmrise:Beyblade" tvg-name="Filmrise:Beyblade" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork_negative/57e04a9f-07db-4e2c-bd31-249e39613890-beyblade-1654765954.png" group-logo="https://www.nicepng.com/png/detail/140-1401862_all-the-anime-logo.png" group-title="AnimeChannel",Filmrise:Beyblade 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakuten.tv&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=Beyblade&ads.csid=zeus_uk_beyblade_ssai&ads.os_language=&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=4183&ads.rakuten_streaming_id=2702ee73-da8d-4678-9b01-23af2ac3465f&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883001&ads.xumo_contentId=2071&ads.xumo_contentName=FilmRiseUK&ads.xumo_ifa=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.xumo_ifaType=ppid&ads.xumo_providerId=2071&ads.xumo_providerName=FilmRiseUK
+
+#EXTINF:-1, tvg-id="Yamato Animation" tvg-name="Yamato Animation" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScKV_s7saiPkCJ9RfaPljQ52U8ykmRW9kpUrRL6_oJ5g&s" group-logo="https://www.nicepng.com/png/detail/140-1401862_all-the-anime-logo.png" group-title="AnimeChannel",Yamato Animation
+https://i.mjh.nz/SamsungTVPlus/ITBA1400007MX.m3u8
+
+#EXTINF:-1 tvg-id="KidsStation" tvg-name="KidsStation" tvg-logo="https://i.postimg.cc/zf1FvxsY/download-22.png" group-title="AnimeChannel",Kids Station Japan 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"L1oxmbJum2k66IGvf/hkzw", "kid":"7fGnFd6XSGON0vrXWkGa8g" } ], "type":"temporary" }
+#EXTINF:-1 group-title="AnimeChannel" tvg-id="" tvg-chno="" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/Animax.png",ANIMAX (SGP)
+https://tglmp01.akamaized.net/out/v1/de55fad9216e4fe7ad8d2eed456ba1ec/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=OGQ0ZGMxNmYtY2QwNC0zZjQ1LWJmYjktYTFjZjM5ZWI5ODdm
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="AnimeChannel",Animax (UnifiTV Feed)
+https://centerrrs.hypp.tv/PLTV/88888888/224/3221227925/3221227925.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=tnUM3pus6bSh1mr%2FQqP7gS%2BLhDQRCdSHNpB7NvbJKHO13ekK2bj%2FEqhmZsgCb487VK201C73xHPJjGvTHv3JiPHl2ogHz3eAyG2k7xToFQmJBU24%2BKwsNeA0VE3pRwoj%3A20221124082916%3AUTC%2C1001767137%2C115.164.56.153%2C20221124082916%2Curn:Huawei:liveTV:XTV57622558%2C1001767137%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C1612403%2C0%2C517698%2C2706399750%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOy2rDMBRE_0ZLoUcqOQutUgKB4gbidlvG1rViIlup5ATy941bdzszZzhzRkeHVwctoavqRWmvN0a0sBslWrLopRWwhhX6rpNTrEOMwxTq5Bfs87T7koILrpTkUrFmudtHhHVZ38aWstP_2InyfejI-dLzOwpHCJkC5iFN_Bjx-MhxnTBqVjVpzFZVRkpj7ZbNS9qgXJ4NO6Ps0nhFJv-Wwi_gesRC7IrugkA1RnLTLcY_7j37p80PI8646_QAAAA&tenantId=6001
+
+#EXTINF:0 tvg-id="Animax - [Channel 157].id" tvg-name="" tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="AnimeChannel",ANIMAX (Indonesia Feed)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
+https://liveaneviadev.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 tvg-id="Aniplus" group-title="AnimeChannel" tvg-logo="https://d1i01wkzwiao45.cloudfront.net/wp-content/uploads/2018/08/Aniplus-Logo-News-Black_RE.jpg", Aniplus (Indonesia Feed)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+
+#EXTINF:-1 group-title="AnimeChannel" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-id="animax" tvg-logo="https://aqfadtv.xyz/logos/Animax.png", BS Animax 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
+
+#EXTINF:-1 channel-id="samsung-KRBC40000010R" tvg-id="KRBC40000010R" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC40000010R_20230926T013828SQUARE.png_20230926013829.png" tvg-chno="536" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="AnimeChannel" , Animax 반지의 비밀일기
+https://i.mjh.nz/SamsungTVPlus/KRBC40000010R.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 channel-id="samsung-KRBC3200001VC" tvg-id="KRBC3200001VC" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200001VC_20231213T033737SQUARE.png_20231213033738.png" tvg-chno="626" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="AnimeChannel" , Animax 하이큐!!
+https://i.mjh.nz/SamsungTVPlus/KRBC3200001VC.m3u8|user-agent=okhttp/4.10.0
+
+#EXTINF:-1 tvg-id="XtremaNime" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://i.postimg.cc/V6yxh1SB/download-2023-06-02-T012400-177.jpg" group-title="AnimeChannel",Xtrema Anime
+https://stmv1.cnarlatam.com/xtremaanime/xtremaanime/playlist.m3u8
