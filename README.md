@@ -5937,3 +5937,18 @@ https://neetball.net/live/neet3.m3u8
 
 #EXTINF:-1 channel-id="pluto-65652f7fc0fc88000883537a" tvg-id="65652f7fc0fc88000883537a" tvg-logo="https://images.pluto.tv/channels/65652f7fc0fc88000883537a/colorLogoPNG.png" tvg-chno="3990" group-title="AnimeChannel" , Crunchyroll
 https://r.mjh.nz/PlutoTV/65652f7fc0fc88000883537a-alt.m3u8
+
+#EXTINF:-1, tvg-id="RTL HD" tvg-name="RTL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/RTL_HD_Logo.svg/2560px-RTL_HD_Logo.svg.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",RTL HD
+https://d1cs5tlhj75jxe.cloudfront.net/rtl/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RTL 2 HD" tvg-name="RTL2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/RTL_2_Logo.svg" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",RTL 2 HD
+https://d1um9c09e0t5ag.cloudfront.net/rtl2/playlist.m3u8
+
+#EXTINF:-1, tvg-id="RTL Kockica HD" tvg-name="RTL Kockica HD" tvg-logo="https://static.wikia.nocookie.net/ttte/images/9/9d/RTLKockicalogo.png/revision/latest?cb=20201012183151" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",RTL Kockica HD
+https://d1rzyyum8t0q1e.cloudfront.net/rtl-kockica/playlist.m3u8
+
+#EXTINF:-1, tvg-id="TV5 FINLAND" tvg-name="TV5 FINLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Kanal_5_%26_TV5_Logo_2024.svg/1200px-Kanal_5_%26_TV5_Logo_2024.svg.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",TV5 FINLAND 
+https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
+
+#EXTINF:-1, tvg-id="TV6 Kutonen FINLAND" tvg-name="TV6 Kutonen FINLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",TV6 Kutonen FINLAND 
+https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
