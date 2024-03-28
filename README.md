@@ -5955,3 +5955,12 @@ https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
 
 #EXTINF:-1 group-title="Kids"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET[INDIHOME]
 https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images4.sport.optus.com.au/resources/images/1920x1080/https://images.sport.optus.com.au/resources/images/link/82f90fd2-d428-33e2-b71a-4bde725f0cd6/ae1676d1-f800-4906-ab70-4926d16aa1fc/1592273400780/0:227:1080:607/2560*1440/OptusSport1.jpg" group-title="Australia Sports",OPTUS*1_AU
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333576_&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Australia Sports",OPTUS*2_AU
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575_&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Australia Sports",OPTUS*3_AU
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extension=m3u8
