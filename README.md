@@ -5952,3 +5952,6 @@ https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 
 #EXTINF:-1, tvg-id="TV6 Kutonen FINLAND" tvg-name="TV6 Kutonen FINLAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/6%27eren_%26_Kutonen_Logo_2024.svg/1200px-6%27eren_%26_Kutonen_Logo_2024.svg.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide",TV6 Kutonen FINLAND 
 https://live-fi.tvkaista.net/kutonen/live.m3u8?src=freetv
+
+#EXTINF:-1 group-title="Kids"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET[INDIHOME]
+https://cors.lim.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
