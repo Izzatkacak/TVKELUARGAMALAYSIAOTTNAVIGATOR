@@ -5988,14 +5988,14 @@ https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/playlist.m3u8|Refe
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religion", Ajwa Tv
 https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayerLib
 
-#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-logo="https://i.imgur.com/lDSctzX.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 1 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt1.m3u8
 
-#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png"  group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-logo="https://i.imgur.com/yyePcl1.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png"  group-title="TV Worldwide" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 2 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt2.m3u8
 
-#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="Undefined" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
