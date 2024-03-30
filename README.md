@@ -5968,3 +5968,23 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extensi
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religion", Ajwa Tv
 https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayerLib
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="TV Daerah",Atambua TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVnemSHVEPzCprINo9_NVkFqkADU4kjbzvNKJznQ8eA&s" group-title="TV Daerah",JPM Jakarta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/anambas.png" group-title="TV Daerah",Anambas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/anambas/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="TV Daerah",Sambas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="TV Daerah",Singkawang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
