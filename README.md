@@ -5965,23 +5965,23 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575_&extensi
 #EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Australia Sports",OPTUS*3_AU
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extension=m3u8
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="TV Daerah",Atambua TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/atambua.png" group-title="TV DAERAH",Atambua TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVnemSHVEPzCprINo9_NVkFqkADU4kjbzvNKJznQ8eA&s" group-title="TV Daerah",JPM Jakarta TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLVnemSHVEPzCprINo9_NVkFqkADU4kjbzvNKJznQ8eA&s" group-title="TV DAERAH",JPM Jakarta TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/anambas.png" group-title="TV Daerah",Anambas TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/anambas.png" group-title="TV DAERAH",Anambas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 https://63b2dc7196c38.streamlock.net:1937/anambas/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="TV Daerah",Sambas TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/sambas.png" group-title="TV DAERAH",Sambas TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 https://63b2dc7196c38.streamlock.net:1937/ch21/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
 
-#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="TV Daerah",Singkawang TV
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://jpmtelevisi.com/img/singkawang.png" group-title="TV DAERAH",Singkawang TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 https://63b2dc7196c38.streamlock.net:1937/singkawang/myStream/playlist.m3u8|Referer:https://jpmtelevisi.com/
 
