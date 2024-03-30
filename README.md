@@ -5964,3 +5964,7 @@ http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333575_&extensi
 
 #EXTINF:-1 tvg-logo="https://static.sport.optus.com.au/images/OS_LOGO_640_360_LR.jpg" group-title="Australia Sports",OPTUS*3_AU
 http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=333574_&extension=m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/gSSRDf6Bszz7uI7Fgo5a-92-kis=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/7464/ajwa-tv-9e9e9e.jpg" group-title="Religion", Ajwa Tv
+https://cikgusuraya.tech/vidio/index.php?id=7464|user-agent=mozilla/89 ExoPlayerLib
