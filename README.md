@@ -5999,3 +5999,9 @@ https://webtvstream.bhtelecom.ba/hrt2.m3u8
 #EXTINF:-1 tvg-id="HRT3.hr" tvg-logo="https://i.imgur.com/4OrOJRx.png" group-logo="https://w7.pngwing.com/pngs/60/503/png-transparent-world-global-network-computer-network-global.png" group-title="TV Worldwide" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",HRT 3 (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://webtvstream.bhtelecom.ba/hrt3.m3u8
+
+#EXTINF:-1, tvg-id="" tvg-name="" tvg-logo="https://radio-online.my/storage/radios/8388/45284/conversions/rUqzrgQLkN15dXy6MGuVBica0B4mQP-metaZ2VnYXJmMm0ucG5n--lg.webp"  group-logo="https://bm.syok.my/_nuxt/img/syok-logo-red-landscape.6cefe1f.png" group-title="Syok@Radio",THR:GEGAR
+https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_1iyod7g8drwkb02/playlist.m3u8|Referer:https://radio-online.my/
+
+#EXTINF:0 tvg-id="MusikFM" tvg-logo="https://radio-online.my/storage/radios/8426/45318/conversions/r96kZy6DesDauGnIB1xvzKmCX4hgXZ-metaa2VsYW50YW5mbS5wbmc=--lg.webp" group-title="RTM:Radio",Kelantan FM
+https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac
