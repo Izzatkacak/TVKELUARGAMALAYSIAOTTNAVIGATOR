@@ -6004,7 +6004,3 @@ https://webtvstream.bhtelecom.ba/hrt3.m3u8
 https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_1iyod7g8drwkb02/playlist.m3u8|Referer:https://radio-online.my/
 
 
-#EXTINF:0 tvg-id="" tvg-logo="https://radio-online.my/storage/radios/8426/45318/conversions/r96kZy6DesDauGnIB1xvzKmCX4hgXZ-metaa2VsYW50YW5mbS5wbmc=--lg.webp" group-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Rtm_Klik_2022.png/revision/latest/scale-to-width-down/200?cb=20230702130847" group-title="RTM:Radio",Kelantan FM
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
-Accept-Encoding:identity;q=1, *;q=0
-https://18233.live.streamtheworld.com/KELANTAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=cffb37cd-2dc1-44df-f500-a91f4955682e|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
