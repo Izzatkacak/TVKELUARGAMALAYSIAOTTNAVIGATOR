@@ -1400,9 +1400,6 @@ https://nyanv-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuB
 #EXTINF:-1 group-title="🇮🇩Indonesia🇮🇩" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/773dea02b1aba8f709c668ca2ae43e1c.png",iNews
 https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
 
-#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-logo="https://i.postimg.cc/65f9dq31/download-2023-06-30-T115615-283.jpg" group-title="🇮🇩Indonesia🇮🇩",VTV Indonesia 
-https://gachor99.my.id/play.m3u8?id=vtv
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
@@ -6008,7 +6005,11 @@ https://stream.rcs.revma.com/cn0zcqsbv4uvv/4_1iyod7g8drwkb02/playlist.m3u8|Refer
 Accept-Encoding:identity;q=1, *;q=0
 https://rr2---sn-jvhja5g3-hoaee.googlevideo.com/videoplayback?expire=1711924259&ei=w48JZpb1D5Oy4t4PtZ-PMA&ip=143.44.144.188&id=o-AIeUK4jpp5EXFwETq4sYKfadED3F_QGQ26f9ooIk2Emw&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&mh=dw&mm=31%2C29&mn=sn-jvhja5g3-hoaee%2Csn-jvhja5g3-hoay&ms=au%2Crdu&mv=m&mvi=2&pl=22&initcwndbps=1162500&spc=UWF9f5hdhvrbzi8HGy5lw_Z05j65obW-l39LsUMxaC_y8J0&vprv=1&svpuc=1&mime=video%2Fmp4&ns=1Fj40DsowlcnWb_KJer6b1QQ&cnr=14&ratebypass=yes&dur=5749.260&lmt=1665728711726285&mt=1711902057&fvip=1&fexp=51141541&c=WEB&sefc=1&txp=5438434&n=k9naLa08iE7CBw&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRQIhAKjokwc7GtNktYMHW2yJ5Aos3wWm0sRLm7ZreP0jNuOAAiAE-9NnTRQ91ZoJwamgl5SOVbgm0vnNwqcvXsTfYPjr5w%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=ALClDIEwRQIhAObbB9h2wko4lTudFOL4GE0o3iXowSIY3CgdgEgC-fBEAiBp8xaJydEMW7cF6xy_A7NorBE9vLrNWxIay4O5SpkVYw%3D%3D&title=P.%20Ramlee%20-%20Bujang%20Lapok%20(1957)%20FULL%20MOVIE|Referer=https://en.savefrom.net/
 
-#EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5mk4rdoVTVMIytGZXgQ3wIkVVIEdcH7d3x-q-qVDb&s" group-title="RTM:Radio",Kelantan FM
+#EXTINF:0 tvg-id="" tvg-logo="" group-title="RTM:Radio",Kelantan FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
 Accept-Encoding:identity;q=1, *;q=0
 https://18233.live.streamtheworld.com/KELANTAN_FMAAC.aac?dist=triton-widget&tdsdk=js-2.9&swm=false&pname=tdwidgets&pversion=2.9&banners=none&burst-time=15&sbmid=cffb37cd-2dc1-44df-f500-a91f4955682e|Referer:https://rtmklik-radio-player.s3.ap-southeast-1.amazonaws.com/
+
+#EXTINF:-1 tvg-id="VTVINDONESIA" tvg-logo="https://i.postimg.cc/tCSB1v0R/download-98.jpg" group-logo="https://i.postimg.cc/65f9dq31/download-2023-06-30-T115615-283.jpg" group-title="🇮🇩Indonesia🇮🇩",VTV Indonesia 
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch107.m3u8
