@@ -959,30 +959,6 @@ https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.mpd
 #EXTINF:-1 tvg-id="POPMAX" tvg-name="POPMAX" tvg-logo="https://i.postimg.cc/d17dJgVN/download-2023-06-15-T230730-743.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids",POP MAX UK (B)
 https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-id="disneychanneleast.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webudit.webhd.ru/lb/premium312/index.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-id="disneychanneleast.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East (B)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479217&extension=ts
-
-#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids", Disney Junior East (A)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://12.webhd.ru/ddy5/premium652/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids", Disney Junior East (B)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479219&extension=ts
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png" group-title="Kids", Disney XD East (A)
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium314/index.m3u8
-
-#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png" group-title="Kids", Disney XD East (B)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=479221&extension=ts
-
 #EXTINF:-1 tvg-id="ABCMe.au" tvg-logo="https://i.postimg.cc/Pf8y6r2T/20230210-090124.png" tvg-chno="323" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids" ,ABC ME
 https://c.mjh.nz/abc-me.m3u8
 
@@ -1188,14 +1164,6 @@ https://d1fk7kbmz4il3.cloudfront.net/CH5/masterCH5.mpd
 https://staging-linearjitp-playback.astro.com.my/dash-wv/linear/1601/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7bc8fa8"}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"lofZG3/WR6iBg9CkzJJfdw", "kid":"s8z3OnpmT4WudBE2f/svpw" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="" group-title="⚽️Sports⚽️" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Super Sport HD
-https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1203,15 +1171,6 @@ https://d3j4fjrwclc3o8.cloudfront.net/CH1/masterCH1.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"QfI0+4hZCvOw0iQRGmG/cQ", "kid":"jx2jmTJSR+ymrN17r7lfog" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" ch-number="810" tvg-name="Astro SuperSport 2 HD" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="⚽️SPORTS⚽️" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png?20200922155455", 810 Astro SuperSport 2 
 https://d3j4fjrwclc3o8.cloudfront.net/CH4/masterCH4.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTHTTP:{"authorization": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6Ik5EWTJPREk1WW1JdFlqWTBZaTAwTnpZNExUazFNR010TUdJeE1HWmlZalUyTnpOaiIsIndtb3BpZCI6MzIsImV4cCI6MTcwMDYxNzYwMiwiaWF0IjoxNzAwMDEzNjAyfQ.cDVjxm3xZCoAp9vK2URr5lJi_HLnF9niML5xI8Hw4-A","3y37WdNxsDTNAF5423xNjg3uHuMdTMcH9":"rmuorMTY4ODM1Njbalk3aWF0IjoNzUyNTE2fQCD1OZk9QhcCI6d7f5b73b"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://sooka.my/&user-agent=Mozilla/5.0 (Linux; Android 12; Pixel 3a XL Build/SP2A.220505.008; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5715.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dashDREAM
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/2UXT47F1MiOjYohloVjzw", "kid":"DW0qGsjRThmxdFVlB3DNmQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="811" tvg-name="Astro SuperSport 3 HD" group-title="⚽️SPORTS⚽️" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png?20200922155527",811 Astro SuperSport 3 
-https://d3j4fjrwclc3o8.cloudfront.net/CH5/masterCH5.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3812,72 +3771,6 @@ http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975475&exten
 #EXTVLCOPT:http-user-agent=Lavf53.32.100
 http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=975474&extension=ts
 
-#EXTINF:-1 tvg-id="ABCNetwork.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc@3x.png" group-title="🇺🇸USA LOCAL🇺🇸",ABC Network 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-https://webudit.hlsjs.ru/lb/premium51/index.m3u8 
-
-#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="cbsnetwork.us" tvg-logo="https://i.imgur.com/5ugbTcD.png",CBS Network 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.hlsjs.ru/lb/premium52/index.m3u8
-
-#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="nbceast.us" tvg-logo="https://i.imgur.com/w4krjQb.png",NBC 
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.hlsjs.ru/lb/premium53/index.m3u8 
-
-#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="foxeast.us" tvg-logo="https://i.imgur.com/hvKVSB6.png",FOX 5 (Dadylive Feed)
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.hlsjs.ru/lb/premium768/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="USA - Tbs" tvg-logo="https://i.postimg.cc/VLcY4FMQ/20230701-234052.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸",TBS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.hlsjs.ru/lb/premium336/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="USA - Syfy" tvg-logo="https://i.postimg.cc/D0y5Y4t6/download-2024-01-01-T085915-822.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸",SYFY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.hlsjs.ru/lb/premium373/index.m3u8
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="tnt.us" tvg-logo="https://i.imgur.com/NqS48Rn.png",TNT US
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.hlsjs.ru/lb/premium338/index.m3u8
-
-#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV) (Dadylive Feed)
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium300/index.m3u8
-
-#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV) (Backup)
-http://m3u.4klion.xyz:80/play/live.php?mac=00:1A:79:78:59:F9&stream=551448&extension=ts
-
-#EXTINF:-1 group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="bravotv.us" tvg-logo="https://i.postimg.cc/8C3gBD9j/download-2024-01-01-T083050-395.png",Bravo TV US
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium307/index.m3u8
-
-#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="trutv.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/tgw6WZzw/download-2024-01-01-T085035-800.png",Tru TV US
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://01.webhd.ru/ddy5/premium341/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="USANETWORK.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
-https://webudit.webhd.ru/lb/premium343/index.m3u8
-
-#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="Nick Music HD" tvg-logo="https://i.postimg.cc/3wpSX4WN/download-2024-01-01-T213746-976.png" group-title="Music Campuran", Nick Music East
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php
-https://webudit.webhd.ru/lb/premium666/index.m3u8
-
 #EXTINF:-1 tvg-id="ABCTVSA.au" tvg-logo="https://i.imgur.com/Ekjb7w8.png" group-title="🇦🇺Australia🇦🇺",ABC TV Adelaide (720p)
 https://c.mjh.nz/abc-sa.m3u8
 
@@ -4264,17 +4157,6 @@ https://ott1.cyberhost.ro/sdash/LIVE$DolceSport3/index.mpd/Manifest?start=LIVE&e
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct", "k":"zdOZhpBXvDTIJ/JX9WJkOg", "kid":"ICqSfNkTEB3nZbDluz9QDw"}], "type":"temporary"}
 https://ott1.cyberhost.ro/sdash/LIVE$DolceSport4/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/tC0TtqLw/download-2024-01-13-T191440-877.jpg",Boomerang US
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://webudit.webhd.ru/lb/premium648/index.m3u8
-
-
-#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸 " group-logo="https://i.postimg.cc/13sYFFMt/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/tRBkYcws/download-2024-01-13-T191539-850.png",Discovery Family US
-#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddyhd.php 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/120.0.6099.210 Mobile Safari/537.36
-https://webudit.webhd.ru/lb/premium657/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605131756310614017/05qwHae-_400x400.jpg", tvg-id="ksport1hd" group-title="Sports Campuran", Sky Premier League
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/premiumtv/daddylivehd.php 
@@ -6005,19 +5887,122 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"PEUIrzSIRBB/XgJqT9axbg", "kid":"GmVRiatcSesjUwjCsannEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports HD" group-title="⚽️Sports⚽️"  tvg-logo="https://iili.io/1Nchhl.png",beIN Sports HD CH818
+#EXTINF:-1 tvg-id="beINSports" tvg-name="beIN Sports HD" group-title="Temporary Sports" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1Nchhl.png",beIN Sports HD CH818
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/408/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"UQKxKqx3VsZdy0ahAdlg0w", "kid":"OcF1WB4jfv+VWWB+ubI8EA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="⚽️Sports⚽️"  tvg-logo="https://iili.io/1NcMkG.png",beIN Sport 2 CH817
+#EXTINF:-1 tvg-id="beINSports2" tvg-name="beIN Sports 2 HD" group-title="Temporary Sports" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NcMkG.png",beIN Sport 2 CH817
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/5066/default.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BCohvyNspymx40PtbgpjNw", "kid":"IMiE747Saydi+LGnjy0ZEA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="⚽️Sports⚽️"  tvg-logo="https://iili.io/1NcG7s.png",beIN Sport 3 HD CH819
+#EXTINF:-1 tvg-id="beINSports3" tvg-name="beIN Sports 3 HD" group-title="Temporary Sports" group-logo="https://telegra.ph/file/ed0787b99b8153874c7e1.png" tvg-logo="https://iili.io/1NcG7s.png",beIN Sport 3 HD CH819
 https://linearjitp02-playback.astro.com.my/dash-wv/linear/2705/default.mpd
+
+#EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/73/MNTV-KCWX_Custom_Logo_7-3.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",myTV San Antonio TX (KCWX-TV) (720p) [Not 24/7]
+http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="⚽️Sports⚽️" tvg-logo="http://www.ranklogos.com/wp-content/uploads/2014/12/MyNetworkTV.png",Digital Super Sport HD
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium123/index.m3u8
+
+#EXTINF:-1 tvg-id="AstroSupersport3" ch-number="811" tvg-name="Astro SuperSport 3 HD" group-title="⚽️SPORTS⚽️" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png?20200922155527",811 Astro SuperSport 3 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium125/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-id="disneychanneleast.us" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png",Disney Channel East 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium312/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyJuniorEast.us" tvg-logo="https://i.postimg.cc/mZ74fPXZ/download-70.png" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" group-title="Kids", Disney Junior East 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium652/index.m3u8
+
+#EXTINF:-1 tvg-id="DisneyXDEast.us" tvg-logo="https://i.postimg.cc/63s4gzQd/download-51.png" group-title="Kids", Disney XD East 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium314/index.m3u8
+
+#EXTINF:-1 tvg-id="ABCNetwork.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc@3x.png" group-title="🇺🇸USA LOCAL🇺🇸",ABC Network 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium51/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="cbsnetwork.us" tvg-logo="https://i.imgur.com/5ugbTcD.png",CBS Network 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium52/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="nbceast.us" tvg-logo="https://i.imgur.com/w4krjQb.png",NBC 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium53/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA LOCAL🇺🇸" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-id="foxeast.us" tvg-logo="https://i.imgur.com/hvKVSB6.png",FOX 5 (Dadylive Feed)
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium54/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA - Tbs" tvg-logo="https://i.postimg.cc/VLcY4FMQ/20230701-234052.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸",TBS
+#EXTVLCOPT:http-referrer=https://www.dlhd.sx/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://mcdn.mrgamingstreams.com/mrgamingwwe.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="USA - Syfy" tvg-logo="https://i.postimg.cc/D0y5Y4t6/download-2024-01-01-T085915-822.png" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸",SYFY
+#EXTVLCOPT:http-referrer=https://qbxez.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://kzoro.best/live/Px7gheYocf1fGAk.m3u8?st=uYVywlOi0cQ365WDRmGX3A&e=1712023894?scitytokenstarttime=1712013098&scitytokenendtime=1712617898&scitytokenhash=npnffb2eVE8r0NozvrvVIAJMXFi2fYgTn0fHXHEPhgY=
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="tnt.us" tvg-logo="https://i.imgur.com/NqS48Rn.png",TNT US
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium338/index.m3u8
+
+#EXTINF:-1 tvg-id="KVCW.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTNGfTfTaGhGaOHQrMUc3F-LylC4FHC5vztQ&s" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA LOCAL🇺🇸",The CW Las Vegas (KVCW-TV) 
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium300/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="bravotv.us" tvg-logo="https://i.postimg.cc/8C3gBD9j/download-2024-01-01-T083050-395.png",Bravo TV US
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium307/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="trutv.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/tgw6WZzw/download-2024-01-01-T085035-800.png",Tru TV US
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium341/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸" tvg-id="USANETWORK.us" group-logo="https://i.postimg.cc/hPSfwDLC/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/t4134Z81/download-2024-01-01-T095451-076.png",USA NETWORK
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium343/index.m3u8
+
+#EXTINF:-1 tvg-id="NickMusic.us" tvg-name="Nick Music HD" tvg-logo="https://i.postimg.cc/3wpSX4WN/download-2024-01-01-T213746-976.png" group-title="🇺🇸USA Entertainment🇺🇸", Nick Music East
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium666/index.m3u8
+
+#EXTINF:-1 group-title="🇺🇸USA Entertainment🇺🇸 " group-logo="https://i.postimg.cc/13sYFFMt/download-2023-12-28-T013454-077.png" tvg-logo="https://i.postimg.cc/tRBkYcws/download-2024-01-13-T191539-850.png",Discovery Family US
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium657/index.m3u8
+
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/tC0TtqLw/download-2024-01-13-T191440-877.jpg",Boomerang US
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium648/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="Kids" group-logo="https://i.postimg.cc/QNzxxJm8/4b83f6-2b26bae449db4255bc5161e4171a42a7-mv2.png" tvg-logo="https://aqfadtv.xyz/logos/CartoonNetwork.png",Cartoon Network EAST
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-A127F Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.40 Mobile Safari/537.36
+https://webhdrus.onlinehdhls.ru/lb/premium339/index.m3u8
